@@ -3,6 +3,7 @@
 ## Smart Cities in India
 
 Preparation of a list of smart cities in India and segregating them region-wise (south, north, east, west, and north-east)
+[Smart Cities](https://docs.google.com/spreadsheets/d/1h9mGQ9lVDjZ6u89m9vgbS-a0HVpvpJ8AyJwsoQ3x5d4/edit?usp=sharing)
 
 ## Extracting Parameters 
                                                             
@@ -31,3 +32,6 @@ The list of cities, towns, and districts in India was prepared. After this, the 
 5. Sundarnagar
 6. Palampur
 7. Shimla
+
+The following is the image of a query which was written for extracting Parks in Delhi.
+![Parks](https://github.com/nkofficial-1005/JunoTerra/blob/master/JunoTerra_Internship/images/turbo.png)
