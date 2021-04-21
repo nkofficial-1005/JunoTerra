@@ -20,11 +20,15 @@ The mercantile library is used to return the tile containing a given point. The 
 
 ### Module 3: Extraction of Parameters
 
-Opencv library is used to read the cropped image and NumPy library is used to calculate the lower green part and upper green part of the image. The image with the resolution is then extracted. The green percentage of the total area is then calculated using the NumPy.sum() and NumPy.size() functions.
-The above code is then deployed as a Flask web app API. The API is then deployed to a cloud platform Heroku as a web app named Satim. The latitude and longitude can be changed by the user to get the desired result.
+Opencv library is used to read the cropped image and NumPy library is used to calculate the lower green part and upper green part of the image. 
 ```python
 img = cv2.imread("./static/crop.png")
 lower_green = np.array([25, 52, 52])
 upper_green = np.array([102, 255, 255])
+```
+The image with the resolution is then extracted. The green percentage of the total area is then calculated using the NumPy.sum() and NumPy.size() functions.
+```python
 green_perc = (np.sum(mask) / np.size(mask)) / 255
 ```
+The above code is then deployed as a Flask web app API. The API is then deployed to a cloud platform Heroku as a web app named Satim. The latitude and longitude can be changed by the user to get the desired result.
+
