@@ -25,5 +25,7 @@ def findGeocode(location):
 ### Module 3: Visualization
 
 The data is cleaned by filling in the missing values and removing repetitions. The new data frame obtained after EDA is used to plot the location as markers in the folium map. 
+![Map Image](https://github.com/nkofficial-1005/JunoTerra/blob/master/JunoTerra_Internship/images/map.PNG)
+
 The above task was carried out for four cities: Faridabad, Ghaziabad, Gurugram, and Noida.
 
