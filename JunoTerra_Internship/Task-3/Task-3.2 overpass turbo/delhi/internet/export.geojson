@@ -1,0 +1,3002 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-01-28T10:19:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/4208294",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "Asset No.1",
+        "addr:postcode": "110037",
+        "addr:street": "Aerocity",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "Andaz Delhi - a concept by Hyatt",
+        "rooms": "401",
+        "smoking": "separated",
+        "stars": "5",
+        "tourism": "hotel",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.122361,
+              28.5535083
+            ],
+            [
+              77.1226263,
+              28.5536269
+            ],
+            [
+              77.1227328,
+              28.5539874
+            ],
+            [
+              77.122658,
+              28.5540019
+            ],
+            [
+              77.1226757,
+              28.5540531
+            ],
+            [
+              77.1227543,
+              28.5540386
+            ],
+            [
+              77.122919,
+              28.5545494
+            ],
+            [
+              77.1227023,
+              28.5546084
+            ],
+            [
+              77.1226631,
+              28.5544481
+            ],
+            [
+              77.1226073,
+              28.5544615
+            ],
+            [
+              77.1226225,
+              28.5545149
+            ],
+            [
+              77.1222082,
+              28.5546607
+            ],
+            [
+              77.1220068,
+              28.5547074
+            ],
+            [
+              77.1218877,
+              28.5547119
+            ],
+            [
+              77.1217382,
+              28.5546941
+            ],
+            [
+              77.1216521,
+              28.5546507
+            ],
+            [
+              77.1215659,
+              28.5545783
+            ],
+            [
+              77.1214734,
+              28.5544337
+            ],
+            [
+              77.1214025,
+              28.5541165
+            ],
+            [
+              77.1213733,
+              28.553944
+            ],
+            [
+              77.1212796,
+              28.5539663
+            ],
+            [
+              77.121221,
+              28.5537651
+            ],
+            [
+              77.1217478,
+              28.5536374
+            ],
+            [
+              77.1217693,
+              28.5537059
+            ],
+            [
+              77.1218472,
+              28.5536871
+            ],
+            [
+              77.1218314,
+              28.5536367
+            ],
+            [
+              77.122361,
+              28.5535083
+            ]
+          ],
+          [
+            [
+              77.1216366,
+              28.5538626
+            ],
+            [
+              77.1218101,
+              28.5544289
+            ],
+            [
+              77.1217926,
+              28.5544331
+            ],
+            [
+              77.1218104,
+              28.5544911
+            ],
+            [
+              77.121877,
+              28.5544753
+            ],
+            [
+              77.1218736,
+              28.5544641
+            ],
+            [
+              77.1225524,
+              28.5543036
+            ],
+            [
+              77.1225759,
+              28.5543802
+            ],
+            [
+              77.122642,
+              28.5543646
+            ],
+            [
+              77.1225554,
+              28.554082
+            ],
+            [
+              77.1226334,
+              28.5540635
+            ],
+            [
+              77.1226168,
+              28.5540095
+            ],
+            [
+              77.1225253,
+              28.5540312
+            ],
+            [
+              77.1224171,
+              28.5536781
+            ],
+            [
+              77.1216366,
+              28.5538626
+            ]
+          ]
+        ]
+      },
+      "id": "relation/4208294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/5229563",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Aravali Hostel",
+        "smoking": "no",
+        "tourism": "hostel",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1613088,
+              28.5795023
+            ],
+            [
+              77.16138,
+              28.5795261
+            ],
+            [
+              77.1614025,
+              28.579427
+            ],
+            [
+              77.1615279,
+              28.5793655
+            ],
+            [
+              77.1615826,
+              28.5793486
+            ],
+            [
+              77.1615697,
+              28.5793218
+            ],
+            [
+              77.1616318,
+              28.579297
+            ],
+            [
+              77.1616691,
+              28.5793506
+            ],
+            [
+              77.1616454,
+              28.5793694
+            ],
+            [
+              77.1617802,
+              28.5795539
+            ],
+            [
+              77.1617211,
+              28.5795886
+            ],
+            [
+              77.1617041,
+              28.5795648
+            ],
+            [
+              77.1615787,
+              28.5796313
+            ],
+            [
+              77.1612817,
+              28.5795609
+            ],
+            [
+              77.1613088,
+              28.5795023
+            ]
+          ],
+          [
+            [
+              77.1613692,
+              28.5795597
+            ],
+            [
+              77.161446,
+              28.5795378
+            ],
+            [
+              77.1614811,
+              28.5795914
+            ],
+            [
+              77.1615725,
+              28.5795527
+            ],
+            [
+              77.1615454,
+              28.579513
+            ],
+            [
+              77.1615748,
+              28.5795001
+            ],
+            [
+              77.16155,
+              28.5794654
+            ],
+            [
+              77.1615274,
+              28.5794763
+            ],
+            [
+              77.1614953,
+              28.5794245
+            ],
+            [
+              77.1614777,
+              28.5794307
+            ],
+            [
+              77.1614874,
+              28.5794513
+            ],
+            [
+              77.1613907,
+              28.5794982
+            ],
+            [
+              77.1613692,
+              28.5795597
+            ]
+          ]
+        ]
+      },
+      "id": "relation/5229563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/44186070",
+        "addr:postcode": "110011",
+        "addr:street": "Janpath",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "National Museum",
+        "name:ckb": "مۆزەخانەی نیشتیمانی",
+        "name:hi": "राष्ट्रीय संग्रहालय",
+        "name:zh": "国家博物馆",
+        "opening_hours": "Tu-Su 10:00-18:00",
+        "tourism": "museum",
+        "website": "http://www.nationalmuseumindia.gov.in/",
+        "wikidata": "Q1356138"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2186626,
+              28.6115315
+            ],
+            [
+              77.2198743,
+              28.6114736
+            ],
+            [
+              77.2199098,
+              28.6120745
+            ],
+            [
+              77.2196411,
+              28.6123282
+            ],
+            [
+              77.2189719,
+              28.6123638
+            ],
+            [
+              77.2186981,
+              28.6121146
+            ],
+            [
+              77.2186626,
+              28.6115315
+            ]
+          ]
+        ]
+      },
+      "id": "way/44186070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/111212532",
+        "addr:city": "Shahbad Daulatpur, Delhi",
+        "addr:housenumber": "Shahbad Daulatpur Village",
+        "addr:postcode": "110042",
+        "addr:street": "Main Bawana Road",
+        "amenity": "university",
+        "description": "Whole area is green.",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "DTU-WiFi",
+        "name": "Delhi Technological Univerity",
+        "natural": "grassland",
+        "opening_hours": "24/7",
+        "operator": "Delhi Technological University",
+        "website": "http://www.dtu.ac.in"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1157205,
+              28.7552963
+            ],
+            [
+              77.1127398,
+              28.7524436
+            ],
+            [
+              77.1119718,
+              28.7516795
+            ],
+            [
+              77.1101432,
+              28.7498602
+            ],
+            [
+              77.1098886,
+              28.7494521
+            ],
+            [
+              77.1106013,
+              28.7494611
+            ],
+            [
+              77.1107319,
+              28.7499192
+            ],
+            [
+              77.1122304,
+              28.7499224
+            ],
+            [
+              77.1120926,
+              28.7494293
+            ],
+            [
+              77.1135589,
+              28.7488966
+            ],
+            [
+              77.11512,
+              28.7489288
+            ],
+            [
+              77.1157074,
+              28.7463548
+            ],
+            [
+              77.1159135,
+              28.7453557
+            ],
+            [
+              77.1170722,
+              28.7450456
+            ],
+            [
+              77.1182685,
+              28.7447185
+            ],
+            [
+              77.1230053,
+              28.749597
+            ],
+            [
+              77.115948,
+              28.7551184
+            ],
+            [
+              77.1157205,
+              28.7552963
+            ]
+          ]
+        ]
+      },
+      "id": "way/111212532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/350514023",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "Airport Hotel",
+        "tourism": "hotel",
+        "website": "http://www.airporthoteldelhi.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1227866,
+              28.5652605
+            ],
+            [
+              77.1228698,
+              28.5652661
+            ],
+            [
+              77.1228544,
+              28.5654219
+            ],
+            [
+              77.1227728,
+              28.5654176
+            ],
+            [
+              77.1227866,
+              28.5652605
+            ]
+          ]
+        ]
+      },
+      "id": "way/350514023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/351163606",
+        "addr:city": "Delhi",
+        "addr:housenumber": "23",
+        "addr:postcode": "110065",
+        "addr:street": "Friends Colony",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "Mantra Amaltas",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2611124,
+              28.5672992
+            ],
+            [
+              77.2613069,
+              28.5670579
+            ],
+            [
+              77.2616405,
+              28.5672653
+            ],
+            [
+              77.261446,
+              28.5675066
+            ],
+            [
+              77.2611124,
+              28.5672992
+            ]
+          ]
+        ]
+      },
+      "id": "way/351163606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/353411667",
+        "addr:city": "New Delhi",
+        "addr:postcode": "110017",
+        "addr:street": "A4 DLF Place",
+        "brand": "Hilton Garden Inn",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/hgisaket",
+        "contact:instagram": "https://www.instagram.com/hiltongardeninnnewdelhiskt/",
+        "email": "delsk_reservations@hilton.com",
+        "fax": "+91 11 39191920",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hilton Garden Inn New Delhi/Saket",
+        "opening_hours": "24/7",
+        "operator": "Hilton",
+        "phone": "+91 11 39191919",
+        "rooms": "115",
+        "smoking": "isolated",
+        "stars": "4",
+        "start_date": "2009",
+        "tourism": "hotel",
+        "website": "https://www.hilton.com/en/hotels/delskgi-hilton-garden-inn-new-delhi-saket/?WT.mc_id=zELWAKN0APAC1GI2DMH3LocalSearch4DGGenericx6DELSKGI",
+        "wheelchair": "yes",
+        "wikidata": "Q32947262"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2174386,
+              28.5280078
+            ],
+            [
+              77.2175165,
+              28.5277356
+            ],
+            [
+              77.2177307,
+              28.5277935
+            ],
+            [
+              77.2180795,
+              28.5278847
+            ],
+            [
+              77.2180054,
+              28.5281316
+            ],
+            [
+              77.2174386,
+              28.5280078
+            ]
+          ]
+        ]
+      },
+      "id": "way/353411667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/358870963",
+        "addr:city": "New Delhi",
+        "addr:postcode": "110016",
+        "addr:street": "JC Bose Marg",
+        "building": "yes",
+        "internet_access": "wlan",
+        "level": "3",
+        "name": "Nilgiri",
+        "operator": "IIT delhi",
+        "rooms": "300",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1822182,
+              28.5469511
+            ],
+            [
+              77.1823312,
+              28.5466765
+            ],
+            [
+              77.1821586,
+              28.5466217
+            ],
+            [
+              77.1820852,
+              28.5468
+            ],
+            [
+              77.1819911,
+              28.54677
+            ],
+            [
+              77.1820948,
+              28.546518
+            ],
+            [
+              77.1823539,
+              28.5466003
+            ],
+            [
+              77.1824458,
+              28.5463772
+            ],
+            [
+              77.1820988,
+              28.5462669
+            ],
+            [
+              77.1821378,
+              28.5461722
+            ],
+            [
+              77.1824105,
+              28.5462588
+            ],
+            [
+              77.1824584,
+              28.5461424
+            ],
+            [
+              77.1829428,
+              28.5462963
+            ],
+            [
+              77.1828434,
+              28.5465377
+            ],
+            [
+              77.1826499,
+              28.5464762
+            ],
+            [
+              77.1825811,
+              28.5466433
+            ],
+            [
+              77.1827831,
+              28.5467075
+            ],
+            [
+              77.1827471,
+              28.5467949
+            ],
+            [
+              77.1824483,
+              28.5466999
+            ],
+            [
+              77.1823598,
+              28.5469147
+            ],
+            [
+              77.182578,
+              28.5469841
+            ],
+            [
+              77.1825484,
+              28.547056
+            ],
+            [
+              77.1822182,
+              28.5469511
+            ]
+          ]
+        ]
+      },
+      "id": "way/358870963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/467108001",
+        "addr:city": "New Delhi",
+        "addr:postcode": "110058",
+        "addr:unit": "Janakpuri",
+        "amenity": "college",
+        "internet_access": "terminal",
+        "name": "Maharaja Surajmal College",
+        "operator": "Maharaja Surajmal College",
+        "wheelchair": "yes",
+        "wikidata": "Q6733250",
+        "wikipedia": "en:Maharaja Surajmal Institute of Technology"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.0918249,
+              28.6196155
+            ],
+            [
+              77.0934526,
+              28.6196851
+            ],
+            [
+              77.0929515,
+              28.6219072
+            ],
+            [
+              77.0917599,
+              28.6216608
+            ],
+            [
+              77.0918249,
+              28.6196155
+            ]
+          ]
+        ]
+      },
+      "id": "way/467108001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/484725161",
+        "building": "hotel",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "BALAJI-WIFI",
+        "internet_access:type": "wifi",
+        "name": "The Prime Balaji Deluxe",
+        "stars": "3",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.217499,
+              28.6455851
+            ],
+            [
+              77.2174963,
+              28.6455067
+            ],
+            [
+              77.2175776,
+              28.6455045
+            ],
+            [
+              77.2175803,
+              28.6455829
+            ],
+            [
+              77.217499,
+              28.6455851
+            ]
+          ]
+        ]
+      },
+      "id": "way/484725161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/628960632",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "Gwyer Hall",
+        "rooms": "81",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2158673,
+              28.6902285
+            ],
+            [
+              77.216731,
+              28.6898944
+            ],
+            [
+              77.2167739,
+              28.6899767
+            ],
+            [
+              77.2170073,
+              28.6898944
+            ],
+            [
+              77.2168678,
+              28.6895885
+            ],
+            [
+              77.2171843,
+              28.6894661
+            ],
+            [
+              77.2175008,
+              28.6902097
+            ],
+            [
+              77.217533,
+              28.690332
+            ],
+            [
+              77.2175437,
+              28.6904732
+            ],
+            [
+              77.2175276,
+              28.6905485
+            ],
+            [
+              77.2170126,
+              28.6907367
+            ],
+            [
+              77.2168785,
+              28.6908591
+            ],
+            [
+              77.2170555,
+              28.6911955
+            ],
+            [
+              77.2165835,
+              28.691372
+            ],
+            [
+              77.2164923,
+              28.6913202
+            ],
+            [
+              77.2164064,
+              28.6912896
+            ],
+            [
+              77.2158673,
+              28.6902285
+            ]
+          ]
+        ]
+      },
+      "id": "way/628960632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/913095905",
+        "admin_level": "A1",
+        "alt_name": "Old Delhi Railway Station",
+        "internet_access": "wlan",
+        "name": "Delhi Junction",
+        "network": "IR",
+        "operator": "NR",
+        "railway": "station",
+        "ref": "DLI",
+        "usage": "main",
+        "wikidata": "Q3633132",
+        "wikipedia": "en:Delhi Junction railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2277153,
+          28.6609052
+        ]
+      },
+      "id": "node/913095905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1184509690",
+        "amenity": "cafe",
+        "internet_access": "terminal",
+        "name": "Internet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2125335,
+          28.6410357
+        ]
+      },
+      "id": "node/1184509690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1431238461",
+        "amenity": "cafe",
+        "internet_access": "terminal",
+        "name": "Internet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2284033,
+          28.7034846
+        ]
+      },
+      "id": "node/1431238461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1483256400",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "G-59",
+        "addr:postcode": "110001",
+        "addr:street": "Connaught Circus (Indira Chowk), Connaught Place",
+        "brand": "Radisson Blu",
+        "internet_access": "wlan",
+        "name": "Radisson Blu Marina Hotel Connaught Place",
+        "name:bn": "রেডিসন ব্লু মেরিনা হোটেল কনট প্লেস",
+        "name:hi": "रैडिसन ब्लू मरीना होटल कनॉट प्लेस",
+        "operator": "Radisson Hotels",
+        "phone": "+91 11 4690 9090",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.radissonblu.com/en/marinahotel-newdelhi?s_cid=os.apac-IN-blu-INDNEDL-gmb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2171659,
+          28.6339659
+        ]
+      },
+      "id": "node/1483256400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1792704222",
+        "amenity": "cafe",
+        "internet_access": "terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9835895,
+          28.6172236
+        ]
+      },
+      "id": "node/1792704222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1835677720",
+        "internet_access": "wlan",
+        "name": "Tughlakabad",
+        "network": "Indian Railways (IR)",
+        "operator": "Northern Railway (NR)",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "TKD",
+        "train": "yes",
+        "wikidata": "Q16902027",
+        "wikipedia": "en:Tughlakabad railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2976084,
+          28.5026954
+        ]
+      },
+      "id": "node/1835677720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1865984100",
+        "designation": "Saramati PG Mens Hostel",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Saramati PG Mens Hostel",
+        "rooms": "69",
+        "smoking": "no",
+        "source": "Self",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1612542,
+          28.5800482
+        ]
+      },
+      "id": "node/1865984100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988585233",
+        "internet_access": "wlan",
+        "name": "Hazrat Nizamuddin Junction",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "NZM",
+        "train": "yes",
+        "wikidata": "Q2723139",
+        "wikipedia": "en:Hazrat Nizamuddin railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2535202,
+          28.5889646
+        ]
+      },
+      "id": "node/1988585233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2235501039",
+        "addr:city": "New Delhi",
+        "addr:country": "IN",
+        "addr:housenumber": "8647",
+        "addr:postcode": "110055",
+        "addr:street": "Arakashan Road",
+        "addr:suburb": "Ram Nagar",
+        "email": "info@ajantahotel.com",
+        "fax": "+91 11 23620228",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Ajanta",
+        "phone": "+91 11 42350000",
+        "tourism": "hotel",
+        "website": "http://www.ajantahotel.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2158487,
+          28.6457798
+        ]
+      },
+      "id": "node/2235501039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2803462740",
+        "email": "contact@shantihome.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Shanti Home",
+        "phone": "+91-11-4157-336",
+        "tourism": "hotel",
+        "website": "http://www.shantihome.com/index.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0689789,
+          28.6244588
+        ]
+      },
+      "id": "node/2803462740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2803462741",
+        "email": "reservations@bnineteen.com",
+        "fax": "+91-11-41825511",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "b nineteen",
+        "phone": "+91-11-41825500",
+        "tourism": "hotel",
+        "website": "http://www.bnineteen.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2521566,
+          28.5911807
+        ]
+      },
+      "id": "node/2803462741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3698521844",
+        "addr:housenumber": "4/23-B",
+        "addr:postcode": "110002",
+        "addr:street": "Asif Ali Road",
+        "internet_access": "wlan",
+        "name": "Stops Hostel Delhi",
+        "phone": "+911141056226",
+        "tourism": "hostel",
+        "website": "http://www.stopshostels.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2387325,
+          28.6409405
+        ]
+      },
+      "id": "node/3698521844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4114512206",
+        "addr:street": "Khan Market",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Market Café ",
+        "website": "www.marketcafe.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2262942,
+          28.5996402
+        ]
+      },
+      "id": "node/4114512206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4117019216",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "8591",
+        "addr:postcode": "110055",
+        "addr:street": "Arakashan Road",
+        "internet_access": "wlan",
+        "name": "Bloomrooms",
+        "phone": "+91 11 412 25666",
+        "smoking": "no",
+        "tourism": "hotel",
+        "website": "http://bloomrooms.com/hotels-railwayst.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2177757,
+          28.6455153
+        ]
+      },
+      "id": "node/4117019216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4138055091",
+        "addr:street": "100 Feet Road",
+        "amenity": "cafe",
+        "cuisine": "burger;regional;ice_cream;cake;coffee_shop;asian;pasta;noodles;pancake;donut;pizza;diner;indian;curry;fish;breakfast;tea;chinese;deli;barbecue",
+        "diet:vegan": "yes",
+        "internet_access": "wlan",
+        "name": "subway, lavazza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1857471,
+          28.5006053
+        ]
+      },
+      "id": "node/4138055091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4159234789",
+        "addr:housenumber": "5 ",
+        "addr:street": "Arakashan Road",
+        "email": "delhi@zostel.com",
+        "internet_access": "wlan",
+        "name": "Zostel",
+        "phone": "+918826290005",
+        "tourism": "hostel",
+        "website": "https://www.zostel.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2173855,
+          28.6456256
+        ]
+      },
+      "id": "node/4159234789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4208743593",
+        "addr:housenumber": "B21",
+        "addr:postcode": "110092 ",
+        "addr:street": "Vikas Marg",
+        "email": "sales@maharajaresidency.com",
+        "internet_access": "wlan",
+        "name": "Maharaja Residency ",
+        "phone": "+911122041111",
+        "tourism": "hotel",
+        "website": "www.maharajaresidency.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2850794,
+          28.636957
+        ]
+      },
+      "id": "node/4208743593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4235546804",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "S-39A",
+        "addr:place": "Panchsheel Park",
+        "addr:postcode": "110017",
+        "email": "delhi@themadpackers.in",
+        "internet_access": "wlan",
+        "name": "The Madpackers Hostel",
+        "phone": "+911141677410",
+        "smoking": "outside",
+        "tourism": "hostel",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2139946,
+          28.5427627
+        ]
+      },
+      "id": "node/4235546804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4241254891",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 08:00-00:30",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2204652,
+          28.6302749
+        ]
+      },
+      "id": "node/4241254891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4296847910",
+        "addr:housename": "Jhandu Mansions",
+        "addr:housenumber": "F-128",
+        "email": "stay@jugaadhostels.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Jugaad Hostel",
+        "payment:cash": "yes",
+        "phone": "+91851000 1800",
+        "smoking": "outside",
+        "tourism": "hostel",
+        "website": "https://www.jugaadhostels.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1856936,
+          28.5653955
+        ]
+      },
+      "id": "node/4296847910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4297587289",
+        "addr:housenumber": "2152",
+        "addr:postcode": "110009",
+        "addr:street": "Qutram Lane",
+        "internet_access": "wlan",
+        "name": "RS.PG",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2054678,
+          28.7019873
+        ]
+      },
+      "id": "node/4297587289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4305400489",
+        "addr:housenumber": "867-868",
+        "addr:postcode": "110055",
+        "addr:street": "Gali Chandi Wali",
+        "email": "hotelthespot@ymail.com",
+        "internet_access": "wlan",
+        "name": "the spot",
+        "phone": "91-11-23580168/69",
+        "tourism": "hotel",
+        "website": "www.hotelthespot.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2152429,
+          28.6417585
+        ]
+      },
+      "id": "node/4305400489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4336790092",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Café office office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2202933,
+          28.6269741
+        ]
+      },
+      "id": "node/4336790092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4349364611",
+        "internet_access": "wlan",
+        "name": "Ajay guesthouse",
+        "name:he": "עג׳אי",
+        "opening_hours": "24/7",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.212275,
+          28.6410006
+        ]
+      },
+      "id": "node/4349364611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4383985793",
+        "addr:housenumber": "22/1",
+        "addr:street": "Main Bazaar",
+        "internet_access": "wlan",
+        "name": "Backpacker Panda Delhi",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2102264,
+          28.6404302
+        ]
+      },
+      "id": "node/4383985793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4399050993",
+        "addr:housenumber": "4690/2",
+        "addr:postcode": "110055",
+        "addr:street": "Shora Kothi, Paharganj",
+        "email": "santana.delhi@gmail.com",
+        "internet_access": "wlan",
+        "name": "Santana Delhi Guesthouse",
+        "name:en": "Santana Delhi Guesthouse",
+        "name:ja": "サンタナデリー",
+        "opening_hours": "24/7",
+        "phone": "9643583313",
+        "tourism": "guest_house",
+        "website": "http://indiasantana.net/delhi/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.212863,
+          28.64207
+        ]
+      },
+      "id": "node/4399050993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4435650390",
+        "internet_access": "wlan",
+        "name": "Metropolis Guest House",
+        "name:en": "Metropolis Guest House",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2100934,
+          28.6399645
+        ]
+      },
+      "id": "node/4435650390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4466513236",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "A-34",
+        "addr:postcode": "110016",
+        "addr:street": "August Kranti Marg, Hauz Khas",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Prakash Kutir B&B",
+        "operator": "Ajay Gupta",
+        "smoking": "no",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2097404,
+          28.5514903
+        ]
+      },
+      "id": "node/4466513236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469554189",
+        "addr:housenumber": "A-34, Hauz Khas",
+        "addr:postcode": "110016",
+        "addr:street": "August Kranti Marg",
+        "email": "prakashkutir@gmail.com",
+        "internet_access": "wlan",
+        "name": "Prakash Kutir B&B",
+        "name:en": "Prakash Kutir B&B",
+        "phone": "+91119811056623",
+        "tourism": "guest_house",
+        "website": "https://www.besthomestaydelhi.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2097903,
+          28.5515189
+        ]
+      },
+      "id": "node/4469554189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4476183091",
+        "addr:housenumber": "C-32",
+        "addr:postcode": "110053",
+        "addr:street": "Street No.3",
+        "amenity": "cafe",
+        "email": "partechcyberworld@gmail.com",
+        "internet_access": "wlan",
+        "name": "PAR Tech. Cyber Cafe",
+        "name:en": "PAR Tech. Cyber Cafe",
+        "name:hi": "पार टेक सायबर कैफ़े",
+        "opening_hours": "Sa 10:00-22:00; Su-Fr 09:00-22:00",
+        "phone": "+919911119039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2610507,
+          28.6811819
+        ]
+      },
+      "id": "node/4476183091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4485658692",
+        "addr:housenumber": "D 306,",
+        "addr:postcode": "110092",
+        "addr:street": "D 306 PNB Building, west vinod nagar",
+        "amenity": "post_office",
+        "internet_access": "wlan",
+        "name": "Shrimate Surveillance System",
+        "name:en": "Shrimate Surveillance System",
+        "opening_hours": "Mo-Sa 21:00-08:00",
+        "website": "http://www.shrimate.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.303731,
+          28.6260694
+        ]
+      },
+      "id": "node/4485658692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4500087992",
+        "internet_access": "wlan",
+        "name": "Airbnb - Cozy apartment",
+        "name:en": "Airbnb - Cozy apartment",
+        "tourism": "guest_house",
+        "website": "https://www.airbnb.com/rooms/8517134?guests=1&s=41&user_id=11126092&ref_device_id=73ce974c987b63c6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2415339,
+          28.5773622
+        ]
+      },
+      "id": "node/4500087992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4505472993",
+        "addr:city": "Mahipalpur Extn,New Delh,India",
+        "addr:housenumber": "A-74",
+        "addr:postcode": "110037",
+        "addr:street": "Road No. 4, A-Block",
+        "email": "info@hotelarch.co.in",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hotel Arch",
+        "name:en": "Hotel Arch",
+        "phone": "7290099602",
+        "rooms": "50",
+        "star": "03 Star",
+        "tourism": "hotel",
+        "website": "http://www.hotelarch.co.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1285424,
+          28.5492941
+        ]
+      },
+      "id": "node/4505472993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4519410289",
+        "internet_access": "wlan",
+        "name": "Hari Piorko",
+        "name:en": "Hari Piorko",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2139972,
+          28.6412372
+        ]
+      },
+      "id": "node/4519410289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4526598890",
+        "addr:housenumber": "2769/6",
+        "addr:postcode": "110055",
+        "addr:street": "Rajguru Marg",
+        "email": "hikari_2000Ontime@yahoo.com",
+        "internet_access": "wlan",
+        "name": "Ever Green",
+        "name:en": "Ever Green Guest House",
+        "name:hi": "Ever Green",
+        "opening_hours": "24/7",
+        "phone": "+91 9891006940",
+        "tourism": "guest_house",
+        "website": "http://evergreenguesthousetravel.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2124411,
+          28.6437264
+        ]
+      },
+      "id": "node/4526598890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4580148989",
+        "addr:housenumber": "22/1",
+        "addr:street": "Main Bazaar",
+        "internet_access": "wlan",
+        "name": "Backpacker Panda",
+        "name:en": "Backpacker Panda",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2101197,
+          28.6403578
+        ]
+      },
+      "id": "node/4580148989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4588959990",
+        "internet_access": "wlan",
+        "name": "Livasa Inn",
+        "name:en": "Livasa Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1832113,
+          28.6459
+        ]
+      },
+      "id": "node/4588959990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4711593889",
+        "addr:housenumber": "4459-61",
+        "addr:postcode": "110055",
+        "addr:street": "Main Bazaar",
+        "email": "hotelyoumedelhi055@gmail.com",
+        "internet_access": "wlan",
+        "name": "You and Me",
+        "name:en": "You and Me",
+        "name:ru": "Ты и Я",
+        "opening_hours": "24/7",
+        "phone": "011235583563",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2165842,
+          28.6414075
+        ]
+      },
+      "id": "node/4711593889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713907990",
+        "addr:housenumber": "H 2A",
+        "addr:postcode": "110016",
+        "addr:street": "Green Park Extension",
+        "internet_access": "wlan",
+        "name": "Hotel Zara Grand",
+        "name:en": "Hotel Zara Grand",
+        "opening_hours": "24/7",
+        "phone": "011 4678 6786",
+        "tourism": "hotel",
+        "website": "http://www.hotelzaragrand.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2061901,
+          28.5598136
+        ]
+      },
+      "id": "node/4713907990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713943490",
+        "addr:postcode": "110016",
+        "addr:street": "Green Park Extension",
+        "internet_access": "wlan",
+        "name": "Hotel Shiv Shankara",
+        "name:en": "Hotel Shiv Shankara",
+        "opening_hours": "24/7",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2060616,
+          28.5598327
+        ]
+      },
+      "id": "node/4713943490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4738148621",
+        "internet_access": "wlan",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.212921,
+          28.6429861
+        ]
+      },
+      "id": "node/4738148621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4759508059",
+        "internet_access": "wlan",
+        "internet_access:ssid": "THELaLiT",
+        "name": "The Lalit",
+        "name:en": "The Lalit",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2274924,
+          28.6315878
+        ]
+      },
+      "id": "node/4759508059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4783048321",
+        "addr:housenumber": "C-20/A",
+        "addr:postcode": "110018",
+        "addr:street": "New Krishna Park",
+        "amenity": "clinic",
+        "internet_access": "wlan",
+        "name": "Dr S K Jain's Clinic",
+        "name:en": "Dr S K Jain's Clinic",
+        "opening_hours": "Mo-Sa 18:00-20:00",
+        "operator": "Dr S K Jain",
+        "phone": "9811147070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0764877,
+          28.6309047
+        ]
+      },
+      "id": "node/4783048321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4790897025",
+        "addr:postcode": "110025",
+        "email": "sunraz25@gmail.com",
+        "internet_access": "wlan",
+        "name": "Artline The Creation",
+        "name:en": "Artline The Creation",
+        "name:hi": "आर्टलाइन द क्रिएशन",
+        "opening_hours": "Mo-Su 09:00-23:30",
+        "phone": "+919990486062",
+        "shop": "computer",
+        "website": "http://artlinethecreation.blogspot.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.29127,
+          28.5540358
+        ]
+      },
+      "id": "node/4790897025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4793870823",
+        "addr:street": "Arakashan Road",
+        "internet_access": "wlan",
+        "name": "Zostel",
+        "name:en": "Zostel",
+        "name:hi": "Zostel",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2173794,
+          28.6455389
+        ]
+      },
+      "id": "node/4793870823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4829934821",
+        "addr:housenumber": "T-105",
+        "addr:postcode": "110053",
+        "addr:street": "Street No.4",
+        "email": "zentekcomputereducation@gmail.com",
+        "internet_access": "wlan",
+        "name": "Zentek Educational  & Welfare Society",
+        "name:en": "Zentek Educational  & Welfare Society",
+        "name:hi": "ज़ेनटेक शैक्षिक एवम कल्याण समाज",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "phone": "+919811989616",
+        "shop": "computer",
+        "website": "http://www.zentekngo.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2638615,
+          28.6779107
+        ]
+      },
+      "id": "node/4829934821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4849657023",
+        "addr:housenumber": "F-3",
+        "addr:postcode": "110005",
+        "addr:street": "Deshbandhu Gupta Road",
+        "internet_access": "wlan",
+        "name": "Hotel SP",
+        "name:en": "Hotel SP",
+        "opening_hours": "24/7",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1943584,
+          28.6521278
+        ]
+      },
+      "id": "node/4849657023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4928026922",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Brownie Cafe",
+        "name:en": "Brownie Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2163699,
+          28.645479
+        ]
+      },
+      "id": "node/4928026922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4972011521",
+        "internet_access": "wlan",
+        "name": "Hotel Singh Sons",
+        "name:en": "Hotel Singh Sons",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1835662,
+          28.6467365
+        ]
+      },
+      "id": "node/4972011521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4975518237",
+        "addr:city": "Delhi",
+        "addr:housenumber": "7",
+        "addr:street": "Link Road",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bloomrooms @ Link Road",
+        "operator": "Bloom Hotel Group",
+        "smoking": "no",
+        "source": "bing",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2394679,
+          28.581294
+        ]
+      },
+      "id": "node/4975518237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5156398921",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "ELaliON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.236558,
+          28.5494669
+        ]
+      },
+      "id": "node/5156398921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5170946821",
+        "amenity": "bus_station",
+        "internet_access": "wlan",
+        "name": "kardampuri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2744804,
+          28.6802124
+        ]
+      },
+      "id": "node/5170946821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5235659422",
+        "internet_access": "wlan",
+        "name": "OYO 7684 Hotel Repose Villa",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2115005,
+          28.6434615
+        ]
+      },
+      "id": "node/5235659422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5289216321",
+        "internet_access": "wlan",
+        "name": "Soul Stay Hostel",
+        "name:hi": "Soul Stay Hostel",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1998002,
+          28.5582832
+        ]
+      },
+      "id": "node/5289216321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5306242322",
+        "internet_access": "wlan",
+        "name": "Shanti Palace",
+        "opening_hours": "24/7",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1275375,
+          28.5491265
+        ]
+      },
+      "id": "node/5306242322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5348555758",
+        "internet_access": "wlan",
+        "name": "Hotel Vintage Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2144552,
+          28.6418295
+        ]
+      },
+      "id": "node/5348555758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5492518424",
+        "internet_access": "wlan",
+        "name": "Nomadia Hostel",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2432582,
+          28.5401478
+        ]
+      },
+      "id": "node/5492518424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5634145022",
+        "addr:housenumber": "107",
+        "addr:postcode": "110001",
+        "addr:street": "Radial Road 1",
+        "amenity": "taxi",
+        "email": "nasirpakhtoon@gmail.com",
+        "internet_access": "wlan",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "payment:cash": "yes",
+        "phone": "8700156281",
+        "website": "http://www.graceindiaholiday.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2214543,
+          28.6312911
+        ]
+      },
+      "id": "node/5634145022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5640908165",
+        "addr:housenumber": "A-1/13",
+        "addr:postcode": "110068",
+        "addr:street": "IGNOU Road",
+        "addr:unit": "6",
+        "amenity": "cafe",
+        "cuisine": "deli",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "level": "0",
+        "name": "Happy Dough",
+        "opening_hours": "Mo-Su 08:00-24:00; PH closed",
+        "outdoor_seating": "no",
+        "phone": "+91-9922-0022-07",
+        "seats": "12",
+        "tables": "4",
+        "toilets": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2025519,
+          28.5110406
+        ]
+      },
+      "id": "node/5640908165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5648625021",
+        "internet_access": "wlan",
+        "name:ru": "Не помню",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2138161,
+          28.6450395
+        ]
+      },
+      "id": "node/5648625021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5706235123",
+        "addr:housenumber": "14A/103",
+        "addr:postcode": "110005",
+        "addr:street": "Maharana Pratap Road",
+        "email": "hotelperfect@yahoo.com",
+        "internet_access": "wlan",
+        "name": "Hotel Perfect",
+        "phone": "+91 11 4250 2295",
+        "tourism": "hotel",
+        "website": "https://www.hotelperfect.co.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1876083,
+          28.6456337
+        ]
+      },
+      "id": "node/5706235123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5709171322",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "The chai kafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2179596,
+          28.6343655
+        ]
+      },
+      "id": "node/5709171322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5747185621",
+        "addr:street": "Main Bazaar",
+        "internet_access": "wlan",
+        "name": "Hôtel Bella Vista",
+        "name:en": "Hôtel bel la vista",
+        "name:fr": "Hôtel bella vista",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2086653,
+          28.6406041
+        ]
+      },
+      "id": "node/5747185621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5752637222",
+        "internet_access": "wlan",
+        "name": "वेलकम इन",
+        "name:en": "Welcome inn",
+        "operator": "Arjun Dharel",
+        "phone": "9910753073",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2151161,
+          28.6406869
+        ]
+      },
+      "id": "node/5752637222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5816260327",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "315/274",
+        "addr:place": "Saiyad ul Ajaib",
+        "addr:street": "Westend Marg",
+        "amenity": "cafe",
+        "cuisine": "korean",
+        "internet_access": "wlan",
+        "name": "Ssongchee - Korea Bings Cafe",
+        "phone": "+91-99584-74381",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "website": "https://www.zomato.com/ncr/ssongchee-korea-bings-cafe-saket-new-delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1984494,
+          28.5174361
+        ]
+      },
+      "id": "node/5816260327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5816931654",
+        "addr:housenumber": "E 99",
+        "addr:postcode": "110048",
+        "addr:street": "Third Floor",
+        "internet_access": "wlan",
+        "name": "Mango Hostel",
+        "opening_hours": "24/7",
+        "phone": "+918929098959",
+        "tourism": "hostel",
+        "website": "http://www.mangohostels.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2429911,
+          28.5384822
+        ]
+      },
+      "id": "node/5816931654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5841373585",
+        "addr:housenumber": "19",
+        "addr:postcode": "110001",
+        "addr:street": "Ashoka Road",
+        "internet_access": "wlan",
+        "name": "The Royal Plaza",
+        "name:hi": "होटल रॉयल प्लाज़ा",
+        "tourism": "hotel",
+        "website": "http://www.hoteltheroyalplaza.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2170271,
+          28.6216848
+        ]
+      },
+      "id": "node/5841373585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5929204674",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "E-522, Palam Extention,",
+        "addr:postcode": "110077",
+        "addr:street": "sector 7, Dwarka",
+        "brand": "Galaxy international",
+        "ele": "4",
+        "email": "galaxyintldwarka@gmail.com",
+        "internet_access": "wlan",
+        "name": "City Hotel",
+        "phone": "+911142412121",
+        "rooms": "0",
+        "smoking": "outside",
+        "stars": "3",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0727103,
+          28.5850113
+        ]
+      },
+      "id": "node/5929204674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5960818472",
+        "internet_access": "service",
+        "name": "New cyber cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2168164,
+          28.5348441
+        ]
+      },
+      "id": "node/5960818472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5978006155",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "7875-79",
+        "addr:postcode": "110055",
+        "addr:street": "Arakashan Road",
+        "brand": "hotel",
+        "email": "hotelsunint@gmail.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Hotel Sun",
+        "rooms": "100",
+        "smoking": "separated",
+        "stars": "4",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2158267,
+          28.6459278
+        ]
+      },
+      "id": "node/5978006155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6073119985",
+        "addr:street": "Outer Circle",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "The Junkyard Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2203409,
+          28.6302645
+        ]
+      },
+      "id": "node/6073119985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6089252386",
+        "internet_access": "wlan",
+        "name": "Roots",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2204186,
+          28.4934539
+        ]
+      },
+      "id": "node/6089252386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6131069513",
+        "admin_level": "A1",
+        "internet_access": "wlan",
+        "name": "New Delhi",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "NDLS",
+        "train": "yes",
+        "wikidata": "Q2742296",
+        "wikipedia": "en:New Delhi railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2217499,
+          28.6419258
+        ]
+      },
+      "id": "node/6131069513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6152749866",
+        "amenity": "fast_food",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "level": "0.5",
+        "name": "Royal's Cafe",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2027037,
+          28.5116353
+        ]
+      },
+      "id": "node/6152749866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6153840585",
+        "addr:street": "New Friends Colony D920",
+        "internet_access": "wlan",
+        "name": "Moustache Delhi",
+        "name:de": "Moustache Delhi",
+        "name:en": "Moustache Delhi",
+        "name:es": "Moustache Delhi",
+        "name:fr": "Moustache Delhi",
+        "name:hi": "Moustache Delhi",
+        "name:it": "Moustache Delhi",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2678404,
+          28.5644871
+        ]
+      },
+      "id": "node/6153840585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6211193766",
+        "addr:full": "746, Jangpura, Mathura Rd, Delhi 110014, India",
+        "email": "info@hotelbeaufortdelhi.in",
+        "internet_access": "wlan",
+        "name": "The Beaufort Inn",
+        "phone": "+919871980574",
+        "tourism": "hotel",
+        "website": "https://hotelbeaufortdelhi.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2512324,
+          28.5825233
+        ]
+      },
+      "id": "node/6211193766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6221405085",
+        "addr:housenumber": "336",
+        "addr:postcode": "110075",
+        "addr:street": "Dwarka Sector 19, Akshardham apartments",
+        "email": "admin@bawraybanjaray.com",
+        "internet_access": "wlan",
+        "name": "जॉब लेस वांडरर्स नेस्ट",
+        "name:en": "Jobless Wanderers nest",
+        "opening_hours": "24/7",
+        "operator": "Bawray Banjaray",
+        "phone": "8076828059",
+        "tourism": "guest_house",
+        "website": "http://Bawraybanjaray.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0425355,
+          28.5867182
+        ]
+      },
+      "id": "node/6221405085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6261321485",
+        "internet_access": "wlan",
+        "name": "Hotel CityLite 2019",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1289083,
+          28.5491998
+        ]
+      },
+      "id": "node/6261321485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6277297296",
+        "internet_access": "wlan",
+        "name": "Hotel Merry Gold",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2105408,
+          28.6409145
+        ]
+      },
+      "id": "node/6277297296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6324610190",
+        "addr:postcode": "110037",
+        "email": "mairporthotel@gmail.com",
+        "internet_access": "wlan",
+        "name": "Airport Hotell Metropolitan Express",
+        "name:en": "Metropolitan Express",
+        "phone": "+919953355999",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1256073,
+          28.5476848
+        ]
+      },
+      "id": "node/6324610190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6326792085",
+        "addr:housenumber": "15A/63,",
+        "addr:postcode": "110005",
+        "addr:street": "Ajmal Khan Rd, Block 15A",
+        "amenity": "restaurant",
+        "cuisine": "pizza;burger;chinese;indian",
+        "internet_access": "wlan",
+        "name": "Kitchen with a cause",
+        "opening_hours": "Mo-Su 11:30-00:00",
+        "phone": "01140214461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1893103,
+          28.6467321
+        ]
+      },
+      "id": "node/6326792085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6369776586",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "German Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.211775,
+          28.6407442
+        ]
+      },
+      "id": "node/6369776586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6397664885",
+        "addr:housenumber": "Building 19",
+        "addr:postcode": "110016",
+        "addr:street": "Hauz Khas Village Road",
+        "internet_access": "wlan",
+        "name": "Workcoh Hostel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1940995,
+          28.554715
+        ]
+      },
+      "id": "node/6397664885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6397665085",
+        "addr:housenumber": "building 19",
+        "addr:postcode": "110016",
+        "addr:street": "Hauz Khas Village Road",
+        "internet_access": "wlan",
+        "name": "Workcoh Hostel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1941087,
+          28.5547192
+        ]
+      },
+      "id": "node/6397665085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6459196261",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "NYC Queens",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2580101,
+          28.5400859
+        ]
+      },
+      "id": "node/6459196261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6535485502",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "internet_access": "wlan",
+        "name": "Nimtho",
+        "name:en": "Nimtho",
+        "name:fr": "Nimtho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2444724,
+          28.5472818
+        ]
+      },
+      "id": "node/6535485502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6566959761",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "B-49",
+        "addr:postcode": "110001",
+        "addr:street": "Connaught Circus (Indira Chowk), Connaught Place",
+        "internet_access": "wlan",
+        "name": "The Corus Hotel",
+        "name:bn": "দি কোরাস হোটেল",
+        "name:hi": "द करुस होटल",
+        "phone": "+ 91-11- 43652222",
+        "tourism": "hotel",
+        "website": "https://www.hotelcorus.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2186423,
+          28.6340937
+        ]
+      },
+      "id": "node/6566959761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6657141286",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Bistrot 55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2136434,
+          28.6409128
+        ]
+      },
+      "id": "node/6657141286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6657822763",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "internet_access": "wlan",
+        "level": "0",
+        "name": "Thali Wala",
+        "phone": "+911149092764",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1890504,
+          28.5678415
+        ]
+      },
+      "id": "node/6657822763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6718061285",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "107",
+        "addr:postcode": "110001",
+        "addr:street": "Janpath Lane",
+        "description": "Private travel agency",
+        "email": "lovejannat12@gmail.com",
+        "information": "office",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Grace india",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "operator": "grace india",
+        "phone": "9810805344",
+        "tourism": "information",
+        "website": "http://www.graceindia.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2204842,
+          28.6289948
+        ]
+      },
+      "id": "node/6718061285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6796490085",
+        "addr:housenumber": "31",
+        "addr:postcode": "110007",
+        "addr:street": "Bungalow Road",
+        "email": "gm.northavenue@spreehotel.com",
+        "internet_access": "wlan",
+        "name": "North Avenue Hotel",
+        "name:en": "Hotel North Avenue - by Spree",
+        "operator": "Spree Hotels",
+        "phone": "911147300400",
+        "tourism": "hotel",
+        "website": "https://www.spreehotels.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2060173,
+          28.6827718
+        ]
+      },
+      "id": "node/6796490085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6859420398",
+        "internet_access": "wlan",
+        "name": "The Hosteller New Dehli",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2599031,
+          28.5708985
+        ]
+      },
+      "id": "node/6859420398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6929384485",
+        "internet_access": "wlan",
+        "name": "The Oakland Plaza",
+        "phone": "+911147000829",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2540743,
+          28.5469213
+        ]
+      },
+      "id": "node/6929384485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7124180248",
+        "addr:housenumber": "12",
+        "addr:place": "Community Center 1",
+        "addr:postcode": "110017",
+        "addr:suburb": "Saket",
+        "brand": "OnePlus",
+        "craft": "electronics_repair",
+        "description": "OnePlus service center",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "1",
+        "name": "Mobitech Creations Private Limited",
+        "opening_hours": "Mo-Su 11:00-19:30",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2075913,
+          28.5232101
+        ]
+      },
+      "id": "node/7124180248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7171180188",
+        "internet_access": "wlan",
+        "name": "HOG Poshtel Delhi",
+        "opening_hours": "24/7",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2464006,
+          28.5380073
+        ]
+      },
+      "id": "node/7171180188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7222985985",
+        "addr:street": "1176 Main Bazar",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Singh’s café & restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2134007,
+          28.6411587
+        ]
+      },
+      "id": "node/7222985985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7354735785",
+        "addr:housenumber": "19",
+        "addr:street": "E-1",
+        "amenity": "cinema",
+        "internet_access": "wlan",
+        "name": "TV channel Russia RTR",
+        "name:hi": "टीवी चैनल रूस आरटीआर",
+        "name:ru": "Телеканал Россия RTR",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "website": "https://www.youtube.com/channel/UCgnRp52sN6TMl240wE9RdSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1579737,
+          28.5653226
+        ]
+      },
+      "id": "node/7354735785"
+    }
+  ]
+}

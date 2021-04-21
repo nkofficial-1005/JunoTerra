@@ -1,0 +1,1578 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-01-28T07:01:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299538119",
+        "amenity": "embassy",
+        "building": "yes",
+        "country": "PE",
+        "diplomatic": "embassy",
+        "name": "Embassy of Peru, New Delhi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1610604,
+              28.5588394
+            ],
+            [
+              77.1610389,
+              28.5587185
+            ],
+            [
+              77.1612822,
+              28.5586796
+            ],
+            [
+              77.1613039,
+              28.5587958
+            ],
+            [
+              77.1610604,
+              28.5588394
+            ]
+          ]
+        ]
+      },
+      "id": "way/299538119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/349712467",
+        "amenity": "embassy",
+        "building": "yes",
+        "country": "DZ",
+        "diplomatic": "embassy",
+        "name": "Embassy of Algeria",
+        "name:fr": "Ambassade d'Algérie",
+        "office": "diplomatic",
+        "target": "IN",
+        "wikidata": "Q100269162"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1730467,
+              28.578007
+            ],
+            [
+              77.1728639,
+              28.5781388
+            ],
+            [
+              77.1728618,
+              28.5781354
+            ],
+            [
+              77.172816,
+              28.5781569
+            ],
+            [
+              77.1727164,
+              28.5782036
+            ],
+            [
+              77.1725955,
+              28.5780049
+            ],
+            [
+              77.1727061,
+              28.577953
+            ],
+            [
+              77.1727409,
+              28.5779366
+            ],
+            [
+              77.1727424,
+              28.5779391
+            ],
+            [
+              77.1728312,
+              28.5779052
+            ],
+            [
+              77.1730467,
+              28.578007
+            ]
+          ]
+        ]
+      },
+      "id": "way/349712467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/349967162",
+        "addr:place": "Vasant Vihar",
+        "amenity": "embassy",
+        "building": "office",
+        "country": "ZA",
+        "diplomatic": "high_commission",
+        "name": "South African High Commission",
+        "name:fr": "Haut-commissariat d'Afrique du Sud",
+        "office": "diplomatic",
+        "target": "IN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1600305,
+              28.5660912
+            ],
+            [
+              77.1601058,
+              28.5659935
+            ],
+            [
+              77.160389,
+              28.566162
+            ],
+            [
+              77.1603137,
+              28.5662597
+            ],
+            [
+              77.1600305,
+              28.5660912
+            ]
+          ]
+        ]
+      },
+      "id": "way/349967162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/349967173",
+        "addr:housenumber": "3",
+        "addr:place": "Vasant Vihar",
+        "addr:street": "B-8",
+        "amenity": "embassy",
+        "barrier": "wall",
+        "building": "office",
+        "country": "UY",
+        "diplomatic": "embassy",
+        "name": "Embassy of Uruguay",
+        "name:es": "Embajada de Uruguay",
+        "name:fr": "Ambassade d'Uruguay",
+        "name:hi": "ऊरूग्वे का राजदूतावास",
+        "office": "diplomatic",
+        "target": "IN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.161999,
+              28.5681897
+            ],
+            [
+              77.1618376,
+              28.5680934
+            ],
+            [
+              77.1619614,
+              28.5679333
+            ],
+            [
+              77.1621206,
+              28.5680283
+            ],
+            [
+              77.1621016,
+              28.5680513
+            ],
+            [
+              77.161999,
+              28.5681897
+            ]
+          ]
+        ]
+      },
+      "id": "way/349967173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/349967184",
+        "addr:housenumber": "6",
+        "addr:place": "Vasant Vihar",
+        "addr:street": "B-9",
+        "amenity": "embassy",
+        "building": "office",
+        "country": "NA",
+        "diplomatic": "high_commission",
+        "name": "High Commission of the Republic of Namibia",
+        "name:fr": "Haut-commissariat de Namibie",
+        "office": "diplomatic",
+        "target": "IN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1610662,
+              28.566136
+            ],
+            [
+              77.161242,
+              28.5662427
+            ],
+            [
+              77.1611844,
+              28.566316
+            ],
+            [
+              77.1610085,
+              28.5662093
+            ],
+            [
+              77.1610662,
+              28.566136
+            ]
+          ]
+        ]
+      },
+      "id": "way/349967184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/349967215",
+        "addr:housenumber": "1",
+        "addr:place": "Vasant Vihar",
+        "addr:street": "B-9",
+        "amenity": "embassy",
+        "building": "office",
+        "country": "GA",
+        "name": "Embassy of the Gabonese Republic",
+        "name:fr": "Ambassade du Gabon",
+        "office": "embassy",
+        "target": "IN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1613326,
+              28.5657414
+            ],
+            [
+              77.1613978,
+              28.5656548
+            ],
+            [
+              77.161581,
+              28.5657612
+            ],
+            [
+              77.1615158,
+              28.5658478
+            ],
+            [
+              77.1613326,
+              28.5657414
+            ]
+          ]
+        ]
+      },
+      "id": "way/349967215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/350006612",
+        "addr:housenumber": "11",
+        "addr:street": "A-10",
+        "amenity": "embassy",
+        "building": "office",
+        "country": "KG",
+        "diplomatic": "embassy",
+        "name": "Embassy of the Kyrgyz Republic",
+        "office": "diplomatic",
+        "target": "IN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1628208,
+              28.5609125
+            ],
+            [
+              77.1628236,
+              28.5608498
+            ],
+            [
+              77.1628873,
+              28.560852
+            ],
+            [
+              77.1628924,
+              28.5607346
+            ],
+            [
+              77.16298,
+              28.5607375
+            ],
+            [
+              77.1629775,
+              28.5607951
+            ],
+            [
+              77.1629674,
+              28.5607948
+            ],
+            [
+              77.162962,
+              28.5609173
+            ],
+            [
+              77.1628208,
+              28.5609125
+            ]
+          ]
+        ]
+      },
+      "id": "way/350006612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/350033832",
+        "addr:housenumber": "14",
+        "addr:street": "A-15",
+        "amenity": "embassy",
+        "building": "office",
+        "country": "IQ",
+        "diplomatic": "embassy",
+        "name": "Embassy of the Republic of Iraq",
+        "name:fr": "Ambassade d'Irak",
+        "office": "diplomatic",
+        "target": "IN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1625996,
+              28.5612032
+            ],
+            [
+              77.1628264,
+              28.5611976
+            ],
+            [
+              77.1628293,
+              28.5612896
+            ],
+            [
+              77.1626025,
+              28.5612952
+            ],
+            [
+              77.1625996,
+              28.5612032
+            ]
+          ]
+        ]
+      },
+      "id": "way/350033832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/350079348",
+        "addr:housenumber": "13",
+        "addr:place": "Vasant Vihar",
+        "addr:street": "B-3",
+        "amenity": "embassy",
+        "building": "office",
+        "country": "UG",
+        "diplomatic": "high_commission",
+        "name": "High Commission of the Republic of Uganda",
+        "name:fr": "Haut-commissariat d'Ouganda",
+        "office": "diplomatic",
+        "target": "IN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.162729,
+              28.5680273
+            ],
+            [
+              77.162754,
+              28.5680418
+            ],
+            [
+              77.1629253,
+              28.5681412
+            ],
+            [
+              77.1628706,
+              28.568214
+            ],
+            [
+              77.1626743,
+              28.5681001
+            ],
+            [
+              77.162729,
+              28.5680273
+            ]
+          ]
+        ]
+      },
+      "id": "way/350079348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/351420747",
+        "addr:city": "Shahdara",
+        "addr:housenumber": "Shahdara Bus Terminal",
+        "addr:postcode": "110032",
+        "addr:street": "GT Road",
+        "building": "yes",
+        "information": "office",
+        "operator": "Delhi Transport Corporation",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2875178,
+              28.6740167
+            ],
+            [
+              77.2876995,
+              28.6740445
+            ],
+            [
+              77.2876668,
+              28.6741549
+            ],
+            [
+              77.2874932,
+              28.6741107
+            ],
+            [
+              77.2875178,
+              28.6740167
+            ]
+          ]
+        ]
+      },
+      "id": "way/351420747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/352569724",
+        "addr:city": "New Delhi",
+        "addr:postcode": "110017",
+        "addr:street": "Outer Ring Road",
+        "amenity": "embassy",
+        "building": "yes",
+        "country": "KH",
+        "diplomatic": "embassy",
+        "name": "Embassy of cambodia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2181981,
+              28.5437322
+            ],
+            [
+              77.2181873,
+              28.5436499
+            ],
+            [
+              77.2183117,
+              28.5436372
+            ],
+            [
+              77.2183225,
+              28.5437195
+            ],
+            [
+              77.2181981,
+              28.5437322
+            ]
+          ]
+        ]
+      },
+      "id": "way/352569724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/484401842",
+        "building": "yes",
+        "information": "national_park",
+        "name": "Asola Information Center",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2661022,
+              28.4935831
+            ],
+            [
+              77.26611,
+              28.4934229
+            ],
+            [
+              77.2663349,
+              28.4934365
+            ],
+            [
+              77.266331,
+              28.4937331
+            ],
+            [
+              77.2662573,
+              28.4937262
+            ],
+            [
+              77.2662535,
+              28.4936069
+            ],
+            [
+              77.2661022,
+              28.4935831
+            ]
+          ]
+        ]
+      },
+      "id": "way/484401842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/488658381",
+        "amenity": "embassy",
+        "building": "yes",
+        "country": "KW",
+        "diplomatic": "embassy",
+        "name": "Embassy off Kuwait",
+        "name:fr": "Ambassade du Koweït",
+        "office": "diplomatic",
+        "target": "IN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1862264,
+              28.586567
+            ],
+            [
+              77.1859975,
+              28.5866625
+            ],
+            [
+              77.1858611,
+              28.5864102
+            ],
+            [
+              77.1860899,
+              28.5863147
+            ],
+            [
+              77.1862264,
+              28.586567
+            ]
+          ]
+        ]
+      },
+      "id": "way/488658381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/657125458",
+        "amenity": "embassy",
+        "building": "yes",
+        "country": "PY",
+        "diplomatic": "embassy",
+        "fax": "+91-11-4270-5672",
+        "name": "Embassy of Paraguay",
+        "name:hi": "पाराग्वाइ दूतावास",
+        "office": "diplomatic",
+        "opening_hours": "Mo-Fr 09:00-17:00 \"Official timings\", 10:00-13:00 \"Consular section & visitors\"",
+        "phone": "+91-11-4270-5671",
+        "target": "IN",
+        "website": "https://www.paraguayembassy.in"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1609019,
+              28.5649201
+            ],
+            [
+              77.1609673,
+              28.5648244
+            ],
+            [
+              77.1612259,
+              28.5649606
+            ],
+            [
+              77.1611605,
+              28.5650564
+            ],
+            [
+              77.1609019,
+              28.5649201
+            ]
+          ]
+        ]
+      },
+      "id": "way/657125458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/561254915",
+        "name": "Parliament Reception",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2099346,
+          28.6163882
+        ]
+      },
+      "id": "node/561254915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/947950059",
+        "amenity": "embassy",
+        "country": "AU",
+        "diplomatic": "embassy",
+        "name": "High Commission of Australia",
+        "name:fr": "Haut-commissariat d'Australie",
+        "office": "diplomatic",
+        "target": "IN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1917746,
+          28.5954831
+        ]
+      },
+      "id": "node/947950059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/947950102",
+        "addr:housenumber": "50 N",
+        "addr:postcode": "110021",
+        "addr:street": "Nyaya Marg",
+        "amenity": "embassy",
+        "country": "TH",
+        "diplomatic": "embassy",
+        "name": "Embassy of Thailand",
+        "name:fr": "Ambassade de Thaïlande",
+        "name:hi": "थाईलैंड की दूतावास",
+        "website": "http://newdelhi.thaiembassy.org/en/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1819343,
+          28.5891125
+        ]
+      },
+      "id": "node/947950102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/947950144",
+        "addr:housenumber": "9",
+        "addr:postcode": "110021",
+        "addr:street": "Chandragupta Marg",
+        "amenity": "embassy",
+        "country": "KR",
+        "diplomatic": "embassy",
+        "name": "Embassy of the Republic of Korea",
+        "name:en": "Embassy of the Republic of Korea",
+        "name:fr": "Ambassade de Corée du Sud",
+        "name:hi": "कोरिया गणराज्य के दूतावास",
+        "phone": "+91 11 4200 7000",
+        "target": "IN",
+        "website": "http://overseas.mofa.go.kr/in-en/index.do",
+        "wikidata": "Q55734530",
+        "wikipedia": "ko:주인도 대한민국 대사관"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.180038,
+          28.5897641
+        ]
+      },
+      "id": "node/947950144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/947950188",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "6/50 F",
+        "addr:postcode": "110021",
+        "addr:street": "Shantipath",
+        "amenity": "embassy",
+        "country": "NL",
+        "diplomatic": "embassy",
+        "email": "nde@minbuza.nl",
+        "fax": "+911124197710",
+        "name": "Embassy of the Kingdom of the Netherlands",
+        "name:fr": "Ambassade des Pays-Bas",
+        "name:nl": "Nederlandse ambassade",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "phone": "+911124197600",
+        "target": "IN",
+        "website": "https://www.nederlandwereldwijd.nl/landen/india/over-ons/ambassade-in-new-delhi",
+        "wikidata": "Q38086437"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1856657,
+          28.5912319
+        ]
+      },
+      "id": "node/947950188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/947950197",
+        "addr:postcode": "110021",
+        "amenity": "embassy",
+        "country": "JP",
+        "diplomatic": "embassy",
+        "name": "Embassy of Japan",
+        "name:en": "Embassy of Japan",
+        "name:fr": "Ambassade du Japon",
+        "name:hi": "जापान की दूतावास",
+        "name:ja": "在インド日本国大使館",
+        "phone": "+91-11-2687-6564",
+        "target": "IN",
+        "website": "https://www.in.emb-japan.go.jp/index.html",
+        "wikidata": "Q60646291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1891752,
+          28.590285
+        ]
+      },
+      "id": "node/947950197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/947950334",
+        "addr:housenumber": "EP-4",
+        "addr:postcode": "110021",
+        "addr:street": "Chandragupta Marg",
+        "amenity": "embassy",
+        "country": "NG",
+        "diplomatic": "embassy",
+        "name": "High commission of Nigeria",
+        "name:en": "High Commission of Nigeria",
+        "name:fr": "Haut-commissariat du Nigeria",
+        "name:hi": "नाइजीरिया का उच्चायोग",
+        "office": "diplomatic",
+        "phone": "+91 11 2412 2143",
+        "target": "IN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1789689,
+          28.5872469
+        ]
+      },
+      "id": "node/947950334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/947950476",
+        "addr:postcode": "110021",
+        "addr:street": "Shanti Path",
+        "amenity": "embassy",
+        "country": "RU",
+        "diplomatic": "embassy",
+        "name": "Embassy of Russia",
+        "name:en": "Embassy of the Russian Federation",
+        "name:fr": "Ambassade de Russie",
+        "name:hi": "रूस की दूतावास",
+        "name:ru": "Посольство Российской Федерации",
+        "phone": "+91 11 2687 3799",
+        "target": "IN",
+        "website": "http://rusembindia.com",
+        "wikidata": "Q16687395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1864655,
+          28.5933815
+        ]
+      },
+      "id": "node/947950476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/947950533",
+        "addr:housenumber": "50 N",
+        "addr:postcode": "110021",
+        "addr:street": "Satya Marg",
+        "amenity": "embassy",
+        "country": "GH",
+        "diplomatic": "embassy",
+        "name": "Embassy of Ghana",
+        "name:en": "High Commission of Ghana",
+        "name:fr": "Haut-commissariat du Gahna",
+        "name:hi": "घाना का उच्चायोग",
+        "phone": "+91 11 2419 3500",
+        "target": "IN",
+        "website": "http://www.ghana-mission.co.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1835741,
+          28.5884771
+        ]
+      },
+      "id": "node/947950533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/947950575",
+        "amenity": "embassy",
+        "country": "SD",
+        "diplomatic": "embassy",
+        "name": "Embassy of Sudan",
+        "name:en": "Embassy of Sudan",
+        "name:fr": "Ambassade du Soudan",
+        "office": "diplomatic",
+        "target": "IN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1899039,
+          28.591931
+        ]
+      },
+      "id": "node/947950575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/947950639",
+        "addr:postcode": "110021",
+        "addr:street": "Shanti Path",
+        "amenity": "embassy",
+        "country": "GB",
+        "diplomatic": "high_commission",
+        "name": "High Commission of the United Kingdom of Great Britain and Northern Ireland",
+        "name:en": "High Commission of the United Kingdom of Great Britain and Northern Ireland",
+        "name:fr": "haut-commissariat du Royaume-Uni",
+        "name:hi": "वृहत् ब्रिटेन और उत्तरी आयरलैण्ड का यूनाइटेड किंगडम के उच्चायोग",
+        "phone": "+91 11 2419 2100",
+        "target": "IN",
+        "website": "https://www.gov.uk/world/organisations/british-high-commission-new-delhi",
+        "wikidata": "Q4970048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1932387,
+          28.5983229
+        ]
+      },
+      "id": "node/947950639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/947950842",
+        "addr:housenumber": "2/50-G",
+        "addr:postcode": "110021",
+        "addr:street": "Shanti Path",
+        "amenity": "embassy",
+        "country": "PK",
+        "diplomatic": "embassy",
+        "name": "High Commission of Pakistan",
+        "name:en": "High Commission of Pakistan",
+        "name:fr": "Haut-commissariat du Pakistan",
+        "name:hi": "पाकिस्तानी उच्चायोग",
+        "phone": "+911126110601",
+        "target": "IN",
+        "website": "http://pakhcnewdelhi.org.pk",
+        "wikidata": "Q27031139",
+        "wikipedia": "en:High Commission of Pakistan, New Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1904031,
+          28.5940724
+        ]
+      },
+      "id": "node/947950842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/947950909",
+        "addr:housenumber": "E-6",
+        "addr:postcode": "110021",
+        "addr:street": "Chandragupta Marg",
+        "amenity": "embassy",
+        "country": "SG",
+        "diplomatic": "high_commission",
+        "name": "High Commission of Singapore",
+        "name:en": "High Commission of Singapore",
+        "name:fr": "Haut-commissariat de Singapour",
+        "name:hi": "सिंगापुर का उच्चायोग",
+        "phone": "+91 11 4600 0800",
+        "target": "IN",
+        "website": "https://www.mfa.gov.sg/New-Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1789112,
+          28.5887908
+        ]
+      },
+      "id": "node/947950909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1038392750",
+        "board_type": "history",
+        "information": "board",
+        "name": "Information Board for Balban's Tomb",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1888453,
+          28.5188931
+        ]
+      },
+      "id": "node/1038392750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1038392917",
+        "board_type": "history",
+        "information": "board",
+        "name": "Information Board for Jamali Kamali Mosque",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1873697,
+          28.5194708
+        ]
+      },
+      "id": "node/1038392917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1038392922",
+        "board_type": "history",
+        "information": "board",
+        "name": "Information Board for ruins around Balban's Tomb",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1876325,
+          28.5194881
+        ]
+      },
+      "id": "node/1038392922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1186823675",
+        "board_type": "history",
+        "information": "board",
+        "name": "Tughlakabad Fort Information Board",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2621804,
+          28.5114507
+        ]
+      },
+      "id": "node/1186823675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1486856990",
+        "information": "office",
+        "name": "Qutub Minar Tickets",
+        "name:ja": "チケット売場",
+        "name:zh": "顾特卜塔",
+        "shop": "ticket",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1877269,
+          28.5254199
+        ]
+      },
+      "id": "node/1486856990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2327524031",
+        "description": "Gouvernemental tourism office ",
+        "information": "map",
+        "name": "Tourism Office ",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2197223,
+          28.6287517
+        ]
+      },
+      "id": "node/2327524031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2713825015",
+        "amenity": "embassy",
+        "country": "EG",
+        "diplomatic": "embassy",
+        "name": "Embassy of Egypt",
+        "name:fr": "Ambassade d'Égypte",
+        "office": "diplomatic",
+        "target": "IN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1893357,
+          28.5860554
+        ]
+      },
+      "id": "node/2713825015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3077649256",
+        "amenity": "embassy",
+        "country": "PE",
+        "diplomatic": "embassy",
+        "name": "Peru Embassy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1608233,
+          28.5588743
+        ]
+      },
+      "id": "node/3077649256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3594992926",
+        "name": "Delhi Tourism and Transportation Development Corporation",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2149261,
+          28.6312294
+        ]
+      },
+      "id": "node/3594992926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4170545291",
+        "name": "Kaba Mohalla Chhawla",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.004344,
+          28.5632561
+        ]
+      },
+      "id": "node/4170545291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4774747835",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.261686,
+          28.5544651
+        ]
+      },
+      "id": "node/4774747835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4860891323",
+        "amenity": "embassy",
+        "country": "MX",
+        "diplomatic": "embassy",
+        "name": "Mexico Embassy",
+        "name:en": "Mexico Embassy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1639704,
+          28.5801397
+        ]
+      },
+      "id": "node/4860891323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4983371294",
+        "information": "office",
+        "level": "1",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "shop": "ticket",
+        "tourism": "information",
+        "vending": "public_transport_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2193038,
+          28.643368
+        ]
+      },
+      "id": "node/4983371294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5305828023",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "N9/1",
+        "addr:postcode": "110001",
+        "addr:street": "middle circle",
+        "amenity": "car_rental",
+        "email": "dso@centretoursandtravel.com",
+        "name": "Ctt transport office",
+        "name:en": "Ctt transport office",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "phone": "01123723226",
+        "tourism": "information",
+        "website": "http://www.centretoursandtravel.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2201398,
+          28.6306078
+        ]
+      },
+      "id": "node/5305828023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5832837191",
+        "addr:housenumber": "EP-31A",
+        "addr:postcode": "110021",
+        "addr:street": "Chandragupta Marg",
+        "amenity": "embassy",
+        "country": "QA",
+        "diplomatic": "embassy",
+        "name": "कतर की दूतावास",
+        "name:en": "Embassy of the State of Qatar",
+        "name:fr": "Ambassade du Qatar",
+        "phone": "+91 11 2611 8787",
+        "target": "IN",
+        "website": "http://new-delhi.embassy.qa/en"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1803524,
+          28.5905867
+        ]
+      },
+      "id": "node/5832837191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5845683090",
+        "addr:city": "New Dehli",
+        "addr:country": "IN",
+        "addr:housenumber": "84",
+        "addr:postcode": "110003",
+        "addr:street": "Jor Bagh",
+        "alt_name": "Embassy of the Grand Duchy of Luxembourg",
+        "alt_name:de": "Luxemburgische Botschaft",
+        "alt_name:en": "Luxembourg embassy",
+        "alt_name:fr": "Ambassade luxembourgeoise",
+        "alt_name:nl": "Luxemburgse ambassade",
+        "amenity": "embassy",
+        "country": "LU",
+        "diplomatic": "embassy",
+        "email": "newdelhi.amb@mae.etat.lu",
+        "embassy": "yes",
+        "fax": "+91 11 41525201",
+        "name": "Embassy of Luxembourg",
+        "name:ar": "سفارة لكسمبرغ",
+        "name:de": "Botschaft des Großherzogtums Luxemburg",
+        "name:en": "Embassy of the Grand Duchy of Luxembourg",
+        "name:es": "Embajada Luxemburgo",
+        "name:fr": "Ambassade du Grand-Duché de Luxembourg",
+        "name:hi": "लक्ज़मबर्ग दूतावास",
+        "name:it": "Ambasciata Lussemburgo",
+        "name:lb": "Ambassade vum Groussherzogtum Lëtzebuerg",
+        "name:lo": "ສະຖານທູດ ລຸກຊຳບວກ",
+        "name:nl": "Ambassade van het Groothertogdom Luxemburg",
+        "name:sq": "Ambasada e Luksemburgut",
+        "office": "diplomatic",
+        "phone": "+91 11 49986600",
+        "target": "IN",
+        "website": "https://newdelhi.mae.lu/",
+        "wikidata": "Q104905081"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2146189,
+          28.5882409
+        ]
+      },
+      "id": "node/5845683090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6180069186",
+        "addr:postcode": "110016",
+        "addr:street": "Begumpur Road",
+        "name": "Sri Aurobindo Ashram",
+        "tourism": "information",
+        "website": "http://sriaurobindoashram.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2007051,
+          28.5390602
+        ]
+      },
+      "id": "node/6180069186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6718061285",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "107",
+        "addr:postcode": "110001",
+        "addr:street": "Janpath Lane",
+        "description": "Private travel agency",
+        "email": "lovejannat12@gmail.com",
+        "information": "office",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Grace india",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "operator": "grace india",
+        "phone": "9810805344",
+        "tourism": "information",
+        "website": "http://www.graceindia.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2204842,
+          28.6289948
+        ]
+      },
+      "id": "node/6718061285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7001389285",
+        "addr:housenumber": "D 6/6",
+        "addr:postcode": "110057",
+        "addr:street": "Paschimi Marg",
+        "amenity": "embassy",
+        "country": "RO",
+        "diplomatic": "embassy",
+        "name": "Embassy of Romania",
+        "name:en": "VASANT VIHAR",
+        "office": "diplomatic",
+        "opening_hours": "Mo-Fr 10:30-12:30; Sa-Su 00:00-24:00",
+        "phone": "+91 11 2614 0447",
+        "target": "IN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1532206,
+          28.5629851
+        ]
+      },
+      "id": "node/7001389285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7043079087",
+        "name": "Free entrance",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2249182,
+          28.6260896
+        ]
+      },
+      "id": "node/7043079087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7043271986",
+        "name": "Free entrance",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2318531,
+          28.6127762
+        ]
+      },
+      "id": "node/7043271986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7043343085",
+        "name": "Gate closed no exit",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2326154,
+          28.6102414
+        ]
+      },
+      "id": "node/7043343085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7043519088",
+        "name": "Entry only no exit",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2278953,
+          28.612995
+        ]
+      },
+      "id": "node/7043519088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7043536785",
+        "name": "Exit only no entry",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2296372,
+          28.6153368
+        ]
+      },
+      "id": "node/7043536785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7140639987",
+        "addr:street": "A-15 West End",
+        "amenity": "embassy",
+        "country": "HR",
+        "diplomatic": "embassy",
+        "name": "Embassy Of The Republic Of Croatia",
+        "office": "diplomatic",
+        "target": "IN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1633133,
+          28.5735194
+        ]
+      },
+      "id": "node/7140639987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7207466385",
+        "amenity": "embassy",
+        "name": "Visa Counter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1859868,
+          28.595232
+        ]
+      },
+      "id": "node/7207466385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7306155785",
+        "name": "The Government of India Tourist Office (",
+        "name:en": "The Government of India Tourist Office",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2196261,
+          28.6288943
+        ]
+      },
+      "id": "node/7306155785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7354696086",
+        "addr:housenumber": "8",
+        "addr:postcode": "110057",
+        "addr:street": "E-1",
+        "amenity": "embassy",
+        "country": "UA",
+        "diplomatic": "embassy",
+        "email": "emb_in@mfa.gov.ua",
+        "name": "Embassy of Ukraine",
+        "name:fr": "Ambassade d'Ukraine",
+        "name:hi": "यूक्रेन का दूतावास",
+        "name:ru": "Посольство Украины",
+        "name:uk": "Посольство України",
+        "office": "diplomatic",
+        "phone": "+ 911126145093",
+        "target": "IN",
+        "website": "https://india.mfa.gov.ua/en",
+        "wikidata": "Q12142687",
+        "wikipedia": "uk:Посольство України в Індії"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1581617,
+          28.5658292
+        ]
+      },
+      "id": "node/7354696086"
+    }
+  ]
+}

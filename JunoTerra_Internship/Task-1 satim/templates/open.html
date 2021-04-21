@@ -1,0 +1,23 @@
+<!DOCTYPE html> 
+<html> 
+<body>
+
+  <div class="table-users">
+
+   <div class="header">Green Area in your Location! </div>
+
+      <p>The latitude and longitude of your area is {{lat_lng}}. </p>
+
+      <p>The x and y tile range of the image is {{x_y_tile}}. </p>
+
+      <p>The dimensions of lower green part of the image are {{lower_green}}. </p>
+
+      <p>The dimensions of upper green part of the image are {{upper_green}}. </p>
+
+      <p>The green area in your location is {{green_percentage}} %. </p>
+
+      <img src="{{url_for('static',filename='crop.png')}}" style="center">
+
+</div>
+</body>
+</html>

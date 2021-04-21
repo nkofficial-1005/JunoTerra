@@ -1,0 +1,1073 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-01-28T07:13:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38170365",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "Sector B1, Vasant Kunj",
+        "addr:postcode": "110070",
+        "addr:street": "Aruna Asif Ali Marg",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "landuse": "commercial",
+        "name": "Fortis Hospital",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1601524,
+              28.5187862
+            ],
+            [
+              77.1610187,
+              28.519294
+            ],
+            [
+              77.1606353,
+              28.5197907
+            ],
+            [
+              77.1596654,
+              28.5192402
+            ],
+            [
+              77.1601524,
+              28.5187862
+            ]
+          ]
+        ]
+      },
+      "id": "way/38170365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/44316348",
+        "addr:district": "South East",
+        "addr:full": "Lajpat Nagar III, Near Moolchand Metro Station, Defence Colony",
+        "addr:postcode": "110024",
+        "addr:state": "Delhi",
+        "amenity": "hospital",
+        "barrier": "wall",
+        "description": "100-500 Bedded Hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Moolchand Khairati Ram Hospital",
+        "phone": "42000102",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2362081,
+              28.5655659
+            ],
+            [
+              77.2364676,
+              28.5673206
+            ],
+            [
+              77.2349814,
+              28.5678144
+            ],
+            [
+              77.2348204,
+              28.5671143
+            ],
+            [
+              77.2346579,
+              28.5663998
+            ],
+            [
+              77.2346034,
+              28.5660728
+            ],
+            [
+              77.2346203,
+              28.5659378
+            ],
+            [
+              77.2347182,
+              28.5657685
+            ],
+            [
+              77.2348848,
+              28.5656874
+            ],
+            [
+              77.2362081,
+              28.5655659
+            ]
+          ]
+        ]
+      },
+      "id": "way/44316348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78563271",
+        "addr:city": "Sector - 15, Rohini, Delhi",
+        "addr:district": "North",
+        "addr:full": "ESI Hospital Building, Sector-15 Rohini",
+        "addr:postcode": "110085",
+        "addr:state": "Delhi",
+        "amenity": "hospital",
+        "contact:phone": "27861033",
+        "description": "District Hospital",
+        "emergency": "yes",
+        "name": "ESI Hospital, Rohini",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1253779,
+              28.7289393
+            ],
+            [
+              77.1245649,
+              28.7280613
+            ],
+            [
+              77.1261719,
+              28.7269172
+            ],
+            [
+              77.1269848,
+              28.7277952
+            ],
+            [
+              77.1253779,
+              28.7289393
+            ]
+          ]
+        ]
+      },
+      "id": "way/78563271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/80508232",
+        "amenity": "hospital",
+        "barrier": "wall",
+        "emergency": "yes",
+        "name": "Escorts Heart Institute"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.274169,
+              28.5609037
+            ],
+            [
+              77.2733832,
+              28.5609097
+            ],
+            [
+              77.2728701,
+              28.5609137
+            ],
+            [
+              77.2730874,
+              28.5599657
+            ],
+            [
+              77.2731201,
+              28.5598681
+            ],
+            [
+              77.2734427,
+              28.559317
+            ],
+            [
+              77.2736816,
+              28.5592721
+            ],
+            [
+              77.2746628,
+              28.5597815
+            ],
+            [
+              77.2743291,
+              28.5603015
+            ],
+            [
+              77.274169,
+              28.5609037
+            ]
+          ]
+        ]
+      },
+      "id": "way/80508232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147110696",
+        "amenity": "hospital",
+        "designation": "General Physician",
+        "emergency": "yes",
+        "name": "Shamsi Clinic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2140571,
+              28.5303105
+            ],
+            [
+              77.2140545,
+              28.5303435
+            ],
+            [
+              77.214007,
+              28.5303354
+            ],
+            [
+              77.2140142,
+              28.5303058
+            ],
+            [
+              77.2140571,
+              28.5303105
+            ]
+          ]
+        ]
+      },
+      "id": "way/147110696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/150520027",
+        "addr:housenumber": "2",
+        "addr:postcode": "110017",
+        "addr:street": "Press Enclave Marg",
+        "amenity": "hospital",
+        "barrier": "wall",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "MAX Hospital",
+        "url": "http://www.maxhealthcare.in/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2107199,
+              28.5280621
+            ],
+            [
+              77.2110986,
+              28.527214
+            ],
+            [
+              77.2120265,
+              28.526373
+            ],
+            [
+              77.2127106,
+              28.5266837
+            ],
+            [
+              77.2121912,
+              28.5283025
+            ],
+            [
+              77.2120985,
+              28.5282836
+            ],
+            [
+              77.2116591,
+              28.5281827
+            ],
+            [
+              77.2112297,
+              28.5281215
+            ],
+            [
+              77.2108108,
+              28.5280879
+            ],
+            [
+              77.2107199,
+              28.5280621
+            ]
+          ]
+        ]
+      },
+      "id": "way/150520027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168898336",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Vimhans",
+        "source": "Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2511322,
+              28.5680311
+            ],
+            [
+              77.2516195,
+              28.5676945
+            ],
+            [
+              77.2520579,
+              28.568184
+            ],
+            [
+              77.2519438,
+              28.5682628
+            ],
+            [
+              77.2518642,
+              28.568174
+            ],
+            [
+              77.2518914,
+              28.5681553
+            ],
+            [
+              77.2516008,
+              28.5678309
+            ],
+            [
+              77.2513461,
+              28.5680069
+            ],
+            [
+              77.2514113,
+              28.5680797
+            ],
+            [
+              77.2512658,
+              28.5681802
+            ],
+            [
+              77.2511322,
+              28.5680311
+            ]
+          ]
+        ]
+      },
+      "id": "way/168898336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/169844632",
+        "addr:district": "South West",
+        "addr:full": "Jaffarpur Kalan,South West Delhi",
+        "addr:postcode": "110073",
+        "addr:state": "Delhi",
+        "amenity": "hospital",
+        "contact:phone": "1125318555",
+        "emergency": "yes",
+        "name": "Rao Tula Ram Memorial Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9129093,
+              28.595796
+            ],
+            [
+              76.9115628,
+              28.5958447
+            ],
+            [
+              76.9115117,
+              28.5952425
+            ],
+            [
+              76.91147,
+              28.5937242
+            ],
+            [
+              76.9147686,
+              28.5936621
+            ],
+            [
+              76.9155014,
+              28.595658
+            ],
+            [
+              76.9149282,
+              28.5956877
+            ],
+            [
+              76.9149282,
+              28.5955739
+            ],
+            [
+              76.9142341,
+              28.5955815
+            ],
+            [
+              76.9142775,
+              28.5964611
+            ],
+            [
+              76.9136349,
+              28.5964387
+            ],
+            [
+              76.9136316,
+              28.5962858
+            ],
+            [
+              76.9129066,
+              28.5962639
+            ],
+            [
+              76.9129093,
+              28.595796
+            ]
+          ]
+        ]
+      },
+      "id": "way/169844632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/204412084",
+        "amenity": "hospital",
+        "barrier": "wall",
+        "emergency": "yes",
+        "name": "Rural Health Training Centre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9861958,
+              28.6128425
+            ],
+            [
+              76.9863245,
+              28.612866
+            ],
+            [
+              76.9864887,
+              28.6130291
+            ],
+            [
+              76.9865316,
+              28.6131515
+            ],
+            [
+              76.9875347,
+              28.6145832
+            ],
+            [
+              76.9876956,
+              28.6149693
+            ],
+            [
+              76.9880602,
+              28.6157564
+            ],
+            [
+              76.9878909,
+              28.6158376
+            ],
+            [
+              76.987896,
+              28.6161349
+            ],
+            [
+              76.9863564,
+              28.6165682
+            ],
+            [
+              76.9863406,
+              28.6165251
+            ],
+            [
+              76.9862974,
+              28.6165305
+            ],
+            [
+              76.9855645,
+              28.6167873
+            ],
+            [
+              76.985512,
+              28.6166721
+            ],
+            [
+              76.9849388,
+              28.6151398
+            ],
+            [
+              76.9847632,
+              28.6146704
+            ],
+            [
+              76.9849995,
+              28.6145001
+            ],
+            [
+              76.9855357,
+              28.6140911
+            ],
+            [
+              76.9858954,
+              28.6136336
+            ],
+            [
+              76.9859424,
+              28.6133485
+            ],
+            [
+              76.9859403,
+              28.6132279
+            ],
+            [
+              76.9859525,
+              28.6131126
+            ],
+            [
+              76.9861687,
+              28.6130928
+            ],
+            [
+              76.9861958,
+              28.6128425
+            ]
+          ]
+        ]
+      },
+      "id": "way/204412084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/206564482",
+        "addr:district": "Central",
+        "addr:full": "Rajender Place, Karolbagh, Near Rajender Place Metro Station",
+        "addr:postcode": "110005",
+        "addr:state": "Delhi",
+        "alt_name": "BLK Super Speciality Hospital",
+        "amenity": "hospital",
+        "barrier": "wall",
+        "contact:phone": "1130653767",
+        "description": "100-500 Bedded Hospital",
+        "emergency": "yes",
+        "name": "Dr. B.L.Kapoor Memorial Hospital",
+        "opening_hours": "24/7",
+        "phone": "+91-11-3040-3040",
+        "short_name": "BLK Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1789778,
+              28.6441034
+            ],
+            [
+              77.1789578,
+              28.6437521
+            ],
+            [
+              77.1789765,
+              28.6434767
+            ],
+            [
+              77.1791279,
+              28.6428221
+            ],
+            [
+              77.1806659,
+              28.6430164
+            ],
+            [
+              77.1807748,
+              28.6440032
+            ],
+            [
+              77.1789778,
+              28.6441034
+            ]
+          ]
+        ]
+      },
+      "id": "way/206564482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264998538",
+        "addr:district": "West",
+        "addr:full": "Hari Nagar, Clock Tower",
+        "addr:postcode": "110064",
+        "addr:state": "Delhi",
+        "amenity": "hospital",
+        "barrier": "wall",
+        "emergency": "yes",
+        "name": "Deen Dayal Upadhyaya Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1111133,
+              28.6270869
+            ],
+            [
+              77.1134949,
+              28.627053
+            ],
+            [
+              77.1135376,
+              28.6286751
+            ],
+            [
+              77.1135447,
+              28.6289459
+            ],
+            [
+              77.1111309,
+              28.6289916
+            ],
+            [
+              77.1111133,
+              28.6270869
+            ]
+          ]
+        ]
+      },
+      "id": "way/264998538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/300260591",
+        "addr:city": "Sector - 5, Rohini, Delhi",
+        "addr:district": "North West",
+        "addr:full": "Sector 6, Rohini, Near Rohini West Metro Station",
+        "addr:postcode": "110085",
+        "addr:state": "Delhi",
+        "amenity": "hospital",
+        "contact:phone": "1127055585",
+        "emergency": "yes",
+        "name": "Dr. Baba Saheb Ambedkar Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1132272,
+              28.7161511
+            ],
+            [
+              77.1118501,
+              28.7146087
+            ],
+            [
+              77.1112477,
+              28.7139117
+            ],
+            [
+              77.1141927,
+              28.7118651
+            ],
+            [
+              77.1162044,
+              28.7141281
+            ],
+            [
+              77.1132272,
+              28.7161511
+            ]
+          ]
+        ]
+      },
+      "id": "way/300260591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/352452534",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "#27, DDA Market No. 3",
+        "addr:postcode": "110019",
+        "addr:street": "Chittaranjan Park (CR Park)",
+        "amenity": "hospital",
+        "building": "yes",
+        "emergency": "yes",
+        "name": "Dental Studio - Dr Sanjay Kumar (Dentist)",
+        "phone": "+91 9810083705",
+        "website": "https://www.delhidentistclinic.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2431173,
+              28.5406578
+            ],
+            [
+              77.2434256,
+              28.5407703
+            ],
+            [
+              77.2433775,
+              28.5408719
+            ],
+            [
+              77.2432918,
+              28.5408406
+            ],
+            [
+              77.2432611,
+              28.5409055
+            ],
+            [
+              77.2431477,
+              28.5408641
+            ],
+            [
+              77.2431726,
+              28.5408114
+            ],
+            [
+              77.2430635,
+              28.5407716
+            ],
+            [
+              77.2431173,
+              28.5406578
+            ]
+          ]
+        ]
+      },
+      "id": "way/352452534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/438994150",
+        "addr:district": "South",
+        "addr:full": "Malviya Nagar, New Delhi",
+        "addr:place": "Malviya Nagar",
+        "addr:postcode": "110017",
+        "addr:state": "Delhi",
+        "amenity": "hospital",
+        "contact:phone": "1126689999",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Pt. Madan Mohan Malviya Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2138788,
+              28.5362191
+            ],
+            [
+              77.2131157,
+              28.5355193
+            ],
+            [
+              77.2134711,
+              28.5348772
+            ],
+            [
+              77.2140759,
+              28.5349832
+            ],
+            [
+              77.2146754,
+              28.5355876
+            ],
+            [
+              77.2138788,
+              28.5362191
+            ]
+          ]
+        ]
+      },
+      "id": "way/438994150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/532774412",
+        "addr:city": "Delhi Cantonment",
+        "addr:postcode": "110010",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Station Medicare Centre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1225207,
+              28.5797844
+            ],
+            [
+              77.122172,
+              28.5790142
+            ],
+            [
+              77.1228989,
+              28.5789035
+            ],
+            [
+              77.1229427,
+              28.5789953
+            ],
+            [
+              77.1232342,
+              28.5796054
+            ],
+            [
+              77.1225207,
+              28.5797844
+            ]
+          ]
+        ]
+      },
+      "id": "way/532774412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/767656280",
+        "addr:district": "East",
+        "addr:housenumber": "108-A",
+        "addr:place": "Indraprastha Extension",
+        "addr:postcode": "110092",
+        "addr:state": "Delhi",
+        "amenity": "hospital",
+        "barrier": "wall",
+        "beds": "500",
+        "contact:phone": "+91 11 4303 3333",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Max Superspeciality Hospital",
+        "source": "OpenGovernmentData",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3088327,
+              28.6326059
+            ],
+            [
+              77.3088819,
+              28.6326219
+            ],
+            [
+              77.3093554,
+              28.6327762
+            ],
+            [
+              77.3101843,
+              28.6330464
+            ],
+            [
+              77.3101342,
+              28.6331592
+            ],
+            [
+              77.3099683,
+              28.6335327
+            ],
+            [
+              77.3099204,
+              28.6336407
+            ],
+            [
+              77.3092457,
+              28.6334257
+            ],
+            [
+              77.3090032,
+              28.633999
+            ],
+            [
+              77.3088792,
+              28.6339585
+            ],
+            [
+              77.3083354,
+              28.6337814
+            ],
+            [
+              77.3088327,
+              28.6326059
+            ]
+          ]
+        ]
+      },
+      "id": "way/767656280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/939235096",
+        "alt_name": "Apollo Hospital",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Indraprastha Apollo Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2834999,
+          28.5408389
+        ]
+      },
+      "id": "node/939235096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3265210135",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "111 first floor",
+        "addr:postcode": "110018",
+        "addr:street": "Ansal majestic tower, Vikaspuri",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Krypton Global Health",
+        "operator": "Krypton Global Health"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0731564,
+          28.6386159
+        ]
+      },
+      "id": "node/3265210135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6895180755",
+        "addr:city": "Delhi",
+        "addr:district": "NORTH WEST DELHI",
+        "addr:full": "Max Super Specialty Hospital (A Unit of Max Health Care Institute Ltd), FC-50, Block C and D, Shalimar Bagh",
+        "addr:postcode": "110088",
+        "addr:state": "Delhi",
+        "amenity": "hospital",
+        "contact:mobile": "9810994195",
+        "contact:phone": "1166422222",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Max Super Specialty Hospital Blood Bank, Shalimar Bagh",
+        "opening_hours": "24/7",
+        "operator": "Max Healthcare",
+        "operator:type": "private",
+        "source": "OpenGovernmentData",
+        "website": "http://www.maxhealthcare.in/index.php/hospital-network/max-super-speciality-hospital-shalimar-bagh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1526694,
+          28.7278251
+        ]
+      },
+      "id": "node/6895180755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7130306819",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "AIIMS Emergency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2096335,
+          28.567441
+        ]
+      },
+      "id": "node/7130306819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7138632146",
+        "addr:city": "Delhi",
+        "addr:district": "North",
+        "addr:full": "Sector-14 Extn., Rohini Madhuban Chowk",
+        "addr:postcode": "110085",
+        "addr:state": "Delhi",
+        "addr:street": "Nr Madhuban Chowk",
+        "amenity": "hospital",
+        "contact:phone": "27903333",
+        "description": "011 4944 4444\nhttp://www.sarojhospital.com/",
+        "emergency": "yes",
+        "healthcare:speciality": "general",
+        "name": "Saroj Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1290461,
+          28.7061564
+        ]
+      },
+      "id": "node/7138632146"
+    }
+  ]
+}

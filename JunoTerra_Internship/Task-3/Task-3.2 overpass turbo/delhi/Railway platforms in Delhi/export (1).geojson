@@ -1,0 +1,858 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-01-19T06:59:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/345195834",
+        "internet_access": "no",
+        "name": "Narela",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "NUR",
+        "train": "yes",
+        "wikidata": "Q24948632"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0856631,
+          28.8464766
+        ]
+      },
+      "id": "node/345195834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/345195841",
+        "internet_access": "no",
+        "name": "Holambi Kalan",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "HUK",
+        "train": "yes",
+        "wikidata": "Q31296640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1024832,
+          28.8015786
+        ]
+      },
+      "id": "node/345195841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/345199448",
+        "internet_access": "no",
+        "name": "Khera Kalan",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "KHKN",
+        "train": "yes",
+        "wikidata": "Q24948474",
+        "wikipedia": "en:Khera Kalan railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1158609,
+          28.7696903
+        ]
+      },
+      "id": "node/345199448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/632050796",
+        "internet_access": "no",
+        "name": "Delhi Cantonment",
+        "name_alt": "Delhi Cantt",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "DEC",
+        "train": "yes",
+        "wikidata": "Q16955670",
+        "wikipedia": "en:Delhi Cantonment railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1156635,
+          28.6117094
+        ]
+      },
+      "id": "node/632050796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/663759047",
+        "internet_access": "no",
+        "name": "Delhi Shahdara Junction",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "DSA",
+        "train": "yes",
+        "wikidata": "Q24948309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2922087,
+          28.6734557
+        ]
+      },
+      "id": "node/663759047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/663760328",
+        "internet_access": "no",
+        "name": "Vivek Vihar",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "VVB",
+        "train": "yes",
+        "wikidata": "Q63369404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3182947,
+          28.6731908
+        ]
+      },
+      "id": "node/663760328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/910356438",
+        "internet_access": "no",
+        "name": "Delhi Safdarjang",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "DSJ",
+        "train": "yes",
+        "wikidata": "Q15648788"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1862115,
+          28.5822036
+        ]
+      },
+      "id": "node/910356438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/910356522",
+        "internet_access": "no",
+        "name": "Sewa Nagar",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "SWNR",
+        "train": "yes",
+        "wikidata": "Q12458603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2276886,
+          28.5789548
+        ]
+      },
+      "id": "node/910356522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/910356583",
+        "internet_access": "no",
+        "name": "Okhla",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "OKA",
+        "train": "yes",
+        "wikidata": "Q24949163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2656232,
+          28.5594753
+        ]
+      },
+      "id": "node/910356583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/913081055",
+        "internet_access": "no",
+        "name": "Subzimandi",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q18386051",
+        "wikipedia": "en:Subzi Mandi railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2004935,
+          28.6685068
+        ]
+      },
+      "id": "node/913081055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/913486329",
+        "internet_access": "no",
+        "name": "Delhi Azadpur",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "DAZ",
+        "train": "yes",
+        "wikidata": "Q63371506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1770629,
+          28.7035041
+        ]
+      },
+      "id": "node/913486329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/914644353",
+        "internet_access": "no",
+        "name": "Dayabasti",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "DBSI",
+        "train": "yes",
+        "wikidata": "Q12433306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.17119,
+          28.6671217
+        ]
+      },
+      "id": "node/914644353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/914644362",
+        "internet_access": "no",
+        "name": "Patel Nagar",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "PTNR",
+        "train": "yes",
+        "wikidata": "Q12436750",
+        "wikipedia": "en:Patel Nagar railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.156957,
+          28.6598088
+        ]
+      },
+      "id": "node/914644362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/915407469",
+        "internet_access": "no",
+        "name": "Delhi Sarai Rohilla",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "DEE",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3635051",
+        "wikipedia": "en:Delhi Sarai Rohilla railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1852561,
+          28.6627515
+        ]
+      },
+      "id": "node/915407469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/920882336",
+        "internet_access": "no",
+        "name": "Adarsh Nagar",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "ANDI",
+        "train": "yes",
+        "wikidata": "Q25548840",
+        "wikipedia": "en:Adarsh Nagar railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1672884,
+          28.7144008
+        ]
+      },
+      "id": "node/920882336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/940975619",
+        "internet_access": "no",
+        "name": "Palam",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "PM",
+        "train": "yes",
+        "wikidata": "Q12437774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0924713,
+          28.585353
+        ]
+      },
+      "id": "node/940975619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/941132747",
+        "internet_access": "no",
+        "name": "Bijwasan",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "BWSN",
+        "train": "yes",
+        "wikidata": "Q39049447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0512889,
+          28.5369587
+        ]
+      },
+      "id": "node/941132747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/944845341",
+        "internet_access": "no",
+        "name": "Anand Vihar Terminus",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "ANVT",
+        "train": "yes",
+        "wikidata": "Q4751289",
+        "wikipedia": "en:Anand Vihar Terminal railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3155003,
+          28.6488509
+        ]
+      },
+      "id": "node/944845341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1825425942",
+        "internet_access": "no",
+        "name": "Shakurbasti",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "SSB",
+        "train": "yes",
+        "wikidata": "Q24947948"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1275679,
+          28.6814073
+        ]
+      },
+      "id": "node/1825425942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1835677720",
+        "internet_access": "wlan",
+        "name": "Tughlakabad",
+        "network": "Indian Railways (IR)",
+        "operator": "Northern Railway (NR)",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "TKD",
+        "train": "yes",
+        "wikidata": "Q16902027",
+        "wikipedia": "en:Tughlakabad railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2976084,
+          28.5026954
+        ]
+      },
+      "id": "node/1835677720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988513576",
+        "internet_access": "no",
+        "name": "Brar Square",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "BRSQ",
+        "train": "yes",
+        "wikidata": "Q12440691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1402634,
+          28.6137377
+        ]
+      },
+      "id": "node/1988513576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988513580",
+        "internet_access": "no",
+        "name": "Delhi Kishanganj",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "DKZ",
+        "train": "yes",
+        "wikidata": "Q6416546",
+        "wikipedia": "en:Kishanganj railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1979077,
+          28.6627442
+        ]
+      },
+      "id": "node/1988513580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988513581",
+        "internet_access": "no",
+        "name": "Lajpat Nagar",
+        "name:ar": "لاجبت نغر",
+        "name:ur": "لاجپت نگر",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "LPNR",
+        "train": "yes",
+        "wikidata": "Q12451209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2440325,
+          28.5792615
+        ]
+      },
+      "id": "node/1988513581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988513582",
+        "internet_access": "no",
+        "name": "Lodhi Colony",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "LDCY",
+        "train": "yes",
+        "wikidata": "Q12451780"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2168728,
+          28.5797537
+        ]
+      },
+      "id": "node/1988513582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988513583",
+        "internet_access": "no",
+        "name": "Pragati Maidan",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "PGMD",
+        "train": "yes",
+        "wikidata": "Q24949212",
+        "wikipedia": "en:Pragati Maidan railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2472109,
+          28.6160392
+        ]
+      },
+      "id": "node/1988513583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988513597",
+        "internet_access": "no",
+        "name": "Sarojini Nagar",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "SOJ",
+        "train": "yes",
+        "wikidata": "Q12455998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1963073,
+          28.5811131
+        ]
+      },
+      "id": "node/1988513597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988513598",
+        "internet_access": "no",
+        "name": "Shivaji Bridge",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "CSB",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q24948842",
+        "wikipedia": "en:Shivaji Bridge railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2266682,
+          28.6334521
+        ]
+      },
+      "id": "node/1988513598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988513599",
+        "internet_access": "no",
+        "name": "Tilak Bridge",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "TKJ",
+        "train": "yes",
+        "wikidata": "Q12432167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2378914,
+          28.6280278
+        ]
+      },
+      "id": "node/1988513599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988513600",
+        "alt_name": "Sarai Rohilla",
+        "internet_access": "no",
+        "name": "Vivekanand Puri",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "WKP",
+        "train": "yes",
+        "wikidata": "Q12453008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1838069,
+          28.6644563
+        ]
+      },
+      "id": "node/1988513600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988585233",
+        "internet_access": "wlan",
+        "name": "Hazrat Nizamuddin Junction",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "NZM",
+        "train": "yes",
+        "wikidata": "Q2723139",
+        "wikipedia": "en:Hazrat Nizamuddin railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2535202,
+          28.5889646
+        ]
+      },
+      "id": "node/1988585233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3736001861",
+        "internet_access": "no",
+        "name": "Shahabad Mohammadpur",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "SMDP",
+        "train": "yes",
+        "wikidata": "Q55643367"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0715537,
+          28.5603258
+        ]
+      },
+      "id": "node/3736001861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5453646586",
+        "name": "Central Secretariat",
+        "name:kn": "ಸೆಂಟ್ರಲ್ ಸೆಕ್ರೆಟರಿಸ್ಟ್",
+        "network": "DMRC",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "yes",
+        "wikidata": "Q5061812"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2122822,
+          28.6158794
+        ]
+      },
+      "id": "node/5453646586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5737166756",
+        "internet_access": "no",
+        "name": "Nangloi",
+        "name:hi": "नाँगलोई",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "NNO",
+        "train": "yes",
+        "wikidata": "Q24948642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0573608,
+          28.6862813
+        ]
+      },
+      "id": "node/5737166756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5854161857",
+        "internet_access": "no",
+        "name": "Sadar Bazar",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "DSB",
+        "train": "yes",
+        "usage": "main",
+        "wheelchair": "yes",
+        "wikidata": "Q24947943",
+        "wikipedia": "en:Sadar Bazar railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2170087,
+          28.658087
+        ]
+      },
+      "id": "node/5854161857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6131069513",
+        "admin_level": "A1",
+        "internet_access": "wlan",
+        "name": "New Delhi",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "NDLS",
+        "train": "yes",
+        "wikidata": "Q2742296",
+        "wikipedia": "en:New Delhi railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2217499,
+          28.6419258
+        ]
+      },
+      "id": "node/6131069513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6388555278",
+        "internet_access": "no",
+        "name": "Nasirpur",
+        "network": "IR",
+        "operator": "NR",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "NSN",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1076284,
+          28.6028727
+        ]
+      },
+      "id": "node/6388555278"
+    }
+  ]
+}
