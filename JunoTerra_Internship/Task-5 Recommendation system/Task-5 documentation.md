@@ -18,5 +18,5 @@ Regress the data to find out which attribute can be taken as a dependent variabl
 
 ### Module 5: Content-based recommender system for city recommendation
 
-a.define a function that will calculate cosine similarity between the user’s input city(ies) and the rest of the cities in the data frame.
-b.then define a function that calls for the input of the user, takes the unweighted average of the cosine similarity values between each inputted city and the rest of the cities in the data frame, and returns a data frame with the top recommendations in descending order (default set at 10 recommendations)
+* define a function that will calculate cosine similarity between the user’s input city(ies) and the rest of the cities in the data frame.
+* then define a function that calls for the input of the user, takes the unweighted average of the cosine similarity values between each inputted city and the rest of the cities in the data frame, and returns a data frame with the top recommendations in descending order (default set at 10 recommendations)
