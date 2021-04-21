@@ -9,6 +9,10 @@ location = locator.geocode(input())
 lat = location.latitude
 longi = location.longitude
 ```
+While in Flask web app, the relaxation was provided to user. The user has to just change the coordinates in the URL which was provided in the app route. Further, the predict function was defined to store the code.
+```python
+@app.route('/predict/<float(signed=True):lat>/<float(signed=True):longi>',methods=['GET','POST'])
+```
 
 ### Module 2: Extraction of Satellite Image
 
